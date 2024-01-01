@@ -1,4 +1,4 @@
-Visit **[dashnowlab.org](http://dashnowlab.org)** 🚀
+Visit **[dashnowlab.org](https://dashnowlab.org)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
