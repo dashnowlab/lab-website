@@ -4,6 +4,7 @@ subtitle:
 description: This is the website for the Dashnow Lab. We do computational genomics in the Department of Biomedical Informatics at the University of Colorado Anschutz Medical Campus.
 header: images/mountains.jpg
 footer: images/background.jpg
+baseurl: ""
 
 # site social media and other links
 links:
