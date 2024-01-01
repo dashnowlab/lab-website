@@ -5,31 +5,53 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+We are currently recruiting postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
 
 {% include section.html %}
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/classroom.jpg"
+  caption="Biomedical Informatics PhD Programs"
+  link="https://medschool.cuanschutz.edu/dbmi/education"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/DBMIbuilding.jpg"
+  caption="Employment Opportunities at CU Biomedical Informatics"
+  link="https://medschool.cuanschutz.edu/dbmi/employment"
+%}
+
+{% endcapture %}
+
+
+{% include cols.html col1=col1 col2=col2 %}
+
+# {% include icon.html icon="fa-solid fa-users" %}Team
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+# Values
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- **Kindness**
+- **Diversity**
+- **Collaboration**
+- **Open Science**
+
 
 {% include section.html %}
 
-{% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
-{% endcapture %}
 
-{% include grid.html style="square" content=content %}
+

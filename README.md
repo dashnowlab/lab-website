@@ -8,6 +8,10 @@ Spend less time worrying about managing a website and citations, and more time r
 
 👇👇 **Get Started** 👇👇
 
+## Already installed? Run:
+
+`./.docker/run.sh` from the local repo root directory
+
 [**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
 
 ## Key Features

@@ -1,22 +1,20 @@
 ---
 ---
 
-# Lab Website Template
+The Dashnow Lab launches July 2024!
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+We are a computational genomics lab at the University of Colorado, [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi/).
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+We are **currently recruiting** postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
+
+# Welcome to the Dashnow Lab
+
+We develop and apply computational methods for the diagnosis and discovery of the genetic basis of rare diseases. The lab has a special emphasis on Short Tandem Repeats and other hard-to-genotype variants. 
+
+Typically ~50% of individuals with rare diseases do not receive a genetic diagnosis. For many of these individuals, the causal variant lies in difficult-to-genotype repetitive regions, often variants or genes that have not yet been associated with a disease. Often the evidence for the variant is present in the sequencing data but is either not genotyped, filtered out as an error, or dismissed because it is difficult to interpret. We develop bioinformatic methods to close this gap in genomic analysis. Our research has the potential to transform lives by giving individuals and their families answers and hope for treatment after a long diagnostic odyssey. 
+
+We develop world-class computational methods and apply them at scale to current and emerging sequencing technologies. We focus on understanding the errors and biases in sequencing technologies and use this to inform bioinformatics software. We aim to produce state-of-the-art software that will enable the wider scientific community. We collaborate locally, nationally, and internationally to link
+patients with relevant expertise and to perform genomics at scale.
 
 {% include section.html %}
 
@@ -24,7 +22,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
 {%
   include button.html
@@ -47,7 +45,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -64,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Projects and Software"
   flip=true
   style="bare"
   text=text
@@ -72,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
 {%
   include button.html

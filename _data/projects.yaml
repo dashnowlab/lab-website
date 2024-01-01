@@ -1,47 +1,41 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: STRchive
+  subtitle: Short Tandem Repeat Archive (pronouced "S-T-archive")
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/STRchive.jpg
+  link: https://harrietdashnow.com/STRchive/
+  description: A database of STRs associated with disease in humans.
+  repo: hdashnow/STRchive
   tags:
     - resource
+    - database
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: TRGT
+  subtitle: Tandem Repeat Genotyping Tool (pronounced "target")
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/TRGT.jpg
+  link: https://github.com/PacificBiosciences/trgt
+  description: TRGT genotypes tandem repeats from PacBio HiFi long read data and visualizes them with TRVZ.
+  repo: PacificBiosciences/trgt
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+    - software
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: STRling
+  subtitle: A computational method to call short tandem repeat expansions at known and novel loci (pronounced "sterling").
+  image: images/STRling.jpg
+  link: https://strling.readthedocs.io/en/latest/
+  description: STRling can detect novel expansions where there is no STR in the reference genome, or an alternate motif.
+  repo: quinlan-lab/STRling
   tags:
     - software
+    - publication
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: STRretch
+  subtitle: A computational method to detecting short tandem repeat expansions from short-read sequencing data.
+  image: images/STRetch.jpg
+  link: https://github.com/Oshlack/STRetch
+  description: STRling can detect novel expansions where there is no STR in the reference genome, or an alternate motif.
+  repo: Oshlack/STRetch
   tags:
     - software
+    - publication
