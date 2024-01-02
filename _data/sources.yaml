@@ -14,9 +14,58 @@
     - VNTRs
   repo: PacificBiosciences/trgt
 
-
 - id: doi:10.1186/s13059-022-02826-4
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-022-02826-4/MediaObjects/13059_2022_2826_Fig1_HTML.png?as=webp
   tags:
     - short reads
     - STRs
+
+- id: doi:10.1038/s41525-021-00227-3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41525-021-00227-3/MediaObjects/41525_2021_227_Fig2_HTML.png?as=webp
+
+- id: ':'
+  image: images/elegantscipy-cover.jpg
+  authors:
+    - Juan Nunez-Iglesias
+    - Stéfan van der Walt
+    - Harriet Dashnow
+
+- id: doi:10.1186/s13059-022-02826-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-022-02826-4/MediaObjects/13059_2022_2826_Fig1_HTML.png?as=webp
+  
+- id: doi:10.1093/gigascience/giz109
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/8/9/10.1093_gigascience_giz109/1/m_giz109fig1.jpeg?Expires=1706053890&Signature=CqIRA2eybkT~KepBn-QvzCmX6NquCv6IajnS3h-GRTbMB68f7BVYojI1KgBaj9bO1UfHNXKPQ~P7Xv7IctuEd2SxVWMcDnVo3z8KBdKwaYgDov58W9xu2mtbryAQj3gfNOTlGlAaceCaApADxMBwKzgFBFyLobuc~nje2q9tAKS6kKGIIZlfM55A1SCAoi00tFNvS2bhr1KTqwZR5FUFv5qx2nkNW2k-crx3xkfTnXpRPWVxzhWLaQ9hf8UADx-7hC-LfOHe4PKR5Z66yaCkn1X3WEDlpomEeRvg3bFdkDFPTiF~lhGrRck2vBtTcukox3El3~u9p~yL3DmL7twkFg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  buttons:
+    - type: website
+      link: https://github.com/bionitio-team/bionitio
+
+- id: doi:10.1186/s13059-018-1505-2
+  image: images/STRetch.jpg
+  buttons:
+    - type: website
+      link: https://github.com/Oshlack/STRetch
+  
+- id: doi:10.1038/ejhg.2017.123
+  description: Melbourne Genomics variant prioritisation
+  image: images/ejhg2017123f1.jpg
+  
+- id: doi:10.1371/journal.pcbi.1004526
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1004526.g001
+  
+- id: doi:10.1186/s13073-015-0191-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13073-015-0191-x/MediaObjects/13073_2015_191_Fig4_HTML.gif?as=webp
+  
+- id: doi:10.1371/journal.pcbi.1003858
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1003858.g001
+  
+- id: doi:10.1109/ucc.2014.113
+  image: images/Data-Interlocking.png
+  
+- id: doi:10.1186/s13073-014-0090-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-014-0090-6/MediaObjects/13073_2014_Article_90_Fig1_HTML.jpg?
+  
+- id: doi:10.1371/journal.pone.0044974
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0044974.g001
+
+- id: doi:10.1101/601740
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/04/07/601740/F1.large.jpg?width=800&height=600&carousel=1

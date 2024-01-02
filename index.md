@@ -37,7 +37,7 @@ patients with relevant expertise and to perform genomics at scale.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/TRGT.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -59,7 +59,7 @@ patients with relevant expertise and to perform genomics at scale.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/STRchive.jpg"
   link="projects"
   title="Our Projects and Software"
   flip=true
@@ -84,7 +84,7 @@ patients with relevant expertise and to perform genomics at scale.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/DBMIbuilding.jpg"
   link="team"
   title="Our Team"
   text=text
