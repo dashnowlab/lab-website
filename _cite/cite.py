@@ -55,7 +55,7 @@ for plugin in plugins:
                 raise Exception("File not a list of dicts")
         except Exception as e:
             log(e, 2, "ERROR")
-            error = True
+            #error = True
             continue
 
         # loop through data entries
