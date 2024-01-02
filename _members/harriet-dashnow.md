@@ -8,7 +8,11 @@ aliases:
   - Harriet Gorman-Myatt
 links:
   home-page: https://harrietdashnow.com/
+  google-scholar: 4Y3m53gAAAAJ&hl=en
   orcid: 0000-0001-8433-6270
+  twitter: hdashnow
+  bluesky: hdashnow.bsky.social
+  
 ---
 
 Harriet Dashnow did her postdoc in the [Quinlan Lab](http://quinlanlab.org/) at the University of Utah. She did her PhD research in the [Oshlack Lab](http://oshlacklab.com/) at the Murdoch Children’s Research Institute and the University of Melbourne, Australia. She is best known for her work in detecting STR expansions, and has also published bioinformatic methods for clinical exome sequencing and microbial gene detection.
