@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Resolving the unsolved: Comprehensive assessment of tandem repeats at scale" style="rich" %}
+{% include citation.html lookup="tandem repeats" style="rich" %}
 
 {% include section.html %}
 
