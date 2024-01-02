@@ -54,8 +54,12 @@
   date: '2022-12-14'
   link: https://doi.org/gsrsm2
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-022-02826-4/MediaObjects/13059_2022_2826_Fig1_HTML.png?as=webp
+  tags:
+  - short reads
+  - STRs
 - id: doi:10.1038/s41525-021-00227-3
   title: Effective variant filtering and expected candidate variant yield in studies
     of rare human disease
@@ -76,8 +80,9 @@
   date: '2021-07-15'
   link: https://doi.org/gsrsm3
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41525-021-00227-3/MediaObjects/41525_2021_227_Fig2_HTML.png?as=webp
 - id: doi:10.1093/gigascience/giz109
   title: 'Bionitio: demonstrating and facilitating best practices for bioinformatics
     command-line software'
@@ -96,8 +101,12 @@
   date: '2019-09-01'
   link: https://doi.org/ggh6r4
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/8/9/10.1093_gigascience_giz109/1/m_giz109fig1.jpeg?Expires=1706053890&Signature=CqIRA2eybkT~KepBn-QvzCmX6NquCv6IajnS3h-GRTbMB68f7BVYojI1KgBaj9bO1UfHNXKPQ~P7Xv7IctuEd2SxVWMcDnVo3z8KBdKwaYgDov58W9xu2mtbryAQj3gfNOTlGlAaceCaApADxMBwKzgFBFyLobuc~nje2q9tAKS6kKGIIZlfM55A1SCAoi00tFNvS2bhr1KTqwZR5FUFv5qx2nkNW2k-crx3xkfTnXpRPWVxzhWLaQ9hf8UADx-7hC-LfOHe4PKR5Z66yaCkn1X3WEDlpomEeRvg3bFdkDFPTiF~lhGrRck2vBtTcukox3El3~u9p~yL3DmL7twkFg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  buttons:
+  - type: website
+    link: https://github.com/bionitio-team/bionitio
 - id: doi:10.1101/601740
   title: Pooled-parent exome sequencing to prioritise <i>de novo</i> variants in genetic
     disease
@@ -133,20 +142,25 @@
   date: '2018-08-21'
   link: https://doi.org/gd49p5
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/STRetch.jpg
+  buttons:
+  - type: website
+    link: https://github.com/Oshlack/STRetch
 - id: isbn:9781491922941
   title: Elegant SciPy
   authors:
   - Juan Nunez-Iglesias
-  - "Ste\u0301fan Van der Walt"
+  - "St\xE9fan van der Walt"
   - Harriet Dashnow
   publisher: O'Reilly Media, Inc.
-  date: '2024-01-02'
+  date: '2017-11-08'
   link: https://github.com/elegant-scipy/elegant-scipy
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/elegantscipy-cover.jpg
 - id: doi:10.1038/ejhg.2017.123
   title: A clinically driven variant prioritization framework outperforms purely computational
     approaches for the diagnostic analysis of singleton WES data
@@ -167,8 +181,10 @@
   date: '2017-08-23'
   link: https://doi.org/gbr77c
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  description: Melbourne Genomics variant prioritisation
+  image: images/ejhg2017123f1.jpg
 - id: doi:10.1371/journal.pcbi.1004526
   title: Ten Simple Rules for a Bioinformatics Journal Club
   authors:
@@ -181,8 +197,9 @@
   date: '2016-01-28'
   link: https://doi.org/ghcwtj
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1004526.g001
 - id: doi:10.1186/s13073-015-0191-x
   title: 'Cpipe: a shared variant detection pipeline designed for diagnostic settings'
   authors:
@@ -206,8 +223,9 @@
   date: '2015-07-10'
   link: https://doi.org/gsrsm4
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13073-015-0191-x/MediaObjects/13073_2015_191_Fig4_HTML.gif?as=webp
 - id: doi:10.1371/journal.pcbi.1003858
   title: Ten Simple Rules for Writing a PLOS Ten Simple Rules Article
   authors:
@@ -218,8 +236,9 @@
   date: '2014-10-23'
   link: https://doi.org/gfrj9s
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1003858.g001
 - id: doi:10.1109/ucc.2014.113
   title: 'Data Interlocking: Coupling Analytics to the Data'
   authors:
@@ -248,8 +267,9 @@
   date: '2014-11-20'
   link: https://doi.org/gf9sd9
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-014-0090-6/MediaObjects/13073_2014_Article_90_Fig1_HTML.jpg?
 - id: doi:10.1371/journal.pone.0044974
   title: Development of Transgenic Mice Containing an Introduced Stop Codon on the
     Human Methylmalonyl-CoA Mutase Locus
@@ -263,5 +283,6 @@
   date: '2012-09-14'
   link: https://doi.org/gsrsm6
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0044974.g001
