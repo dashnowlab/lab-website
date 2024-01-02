@@ -49,6 +49,12 @@
 - id: doi:10.1371/journal.pone.0044974
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0044974.g001
 
+- id: doi:10.1109/ucc.2014.113
+  image: images/Data-Interlocking.png
+
+- id: doi:10.1101/601740
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/04/07/601740/F1.large.jpg?width=800&height=600&carousel=1
+
 - id: doi:10.1038/s41587-023-02057-3
   title: 'Characterization and visualization of tandem repeats at genome scale'
   publisher: Nature Biotechnology
