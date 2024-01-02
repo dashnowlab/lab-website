@@ -1,155 +1,267 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s41587-023-02057-3
+  title: Characterization and visualization of tandem repeats at genome scale
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Egor Dolzhenko
+  - Adam English
+  - Harriet Dashnow
+  - Guilherme De Sena Brandine
+  - Tom Mokveld
+  - William J. Rowell
+  - Caitlin Karniski
+  - Zev Kronenberg
+  - Matt C. Danzi
+  - Warren A. Cheung
+  - Chengpeng Bi
+  - Emily Farrow
+  - Aaron Wenger
+  - Khi Pin Chua
+  - "Ver\xF3nica Mart\xEDnez-Cerde\xF1o"
+  - Trevor D. Bartley
+  - Peng Jin
+  - David L. Nelson
+  - Stephan Zuchner
+  - Tomi Pastinen
+  - Aaron R. Quinlan
+  - Fritz J. Sedlazeck
+  - Michael A. Eberle
+  publisher: Nature Biotechnology
+  date: '2024-01-02'
+  link: https://doi.org/gtbst8
+  orcid: 0000-0001-8433-6270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1186/s13059-022-02826-4
+  title: 'STRling: a k-mer counting approach that detects short tandem repeat expansions
+    at known and novel loci'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Harriet Dashnow
+  - Brent S. Pedersen
+  - Laurel Hiatt
+  - Joe Brown
+  - Sarah J. Beecroft
+  - Gianina Ravenscroft
+  - Amy J. LaCroix
+  - Phillipa Lamont
+  - Richard H. Roxburgh
+  - Miriam J. Rodrigues
+  - Mark Davis
+  - Heather C. Mefford
+  - Nigel G. Laing
+  - Aaron R. Quinlan
   publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2022-12-14'
+  link: https://doi.org/gsrsm2
+  orcid: 0000-0001-8433-6270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1038/s41525-021-00227-3
+  title: Effective variant filtering and expected candidate variant yield in studies
+    of rare human disease
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - Brent S. Pedersen
+  - Joe M. Brown
+  - Harriet Dashnow
+  - Amelia D. Wallace
+  - Matt Velinder
+  - Martin Tristani-Firouzi
+  - Joshua D. Schiffman
+  - Tatiana Tvrdik
+  - Rong Mao
+  - D. Hunter Best
+  - Pinar Bayrak-Toydemir
+  - Aaron R. Quinlan
+  publisher: npj Genomic Medicine
+  date: '2021-07-15'
+  link: https://doi.org/gsrsm3
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gigascience/giz109
+  title: 'Bionitio: demonstrating and facilitating best practices for bioinformatics
+    command-line software'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Peter Georgeson
+  - Anna Syme
+  - Clare Sloggett
+  - Jessica Chung
+  - Harriet Dashnow
+  - Michael Milton
+  - Andrew Lonsdale
+  - David Powell
+  - Torsten Seemann
+  - Bernard Pope
+  publisher: GigaScience
+  date: '2019-09-01'
+  link: https://doi.org/ggh6r4
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/601740
+  title: Pooled-parent exome sequencing to prioritise <i>de novo</i> variants in genetic
+    disease
+  authors:
+  - Harriet Dashnow
+  - Katrina M. Bell
+  - Zornitza Stark
+  - Tiong Y. Tan
+  - Susan M. White
+  - Alicia Oshlack
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2019-04-07'
+  link: https://doi.org/gkvmjw
+  orcid: 0000-0001-8433-6270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1186/s13059-018-1505-2
+  title: 'STRetch: detecting and discovering pathogenic short tandem repeat expansions'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Harriet Dashnow
+  - Monkol Lek
+  - Belinda Phipson
+  - Andreas Halman
+  - Simon Sadedin
+  - Andrew Lonsdale
+  - Mark Davis
+  - Phillipa Lamont
+  - Joshua S. Clayton
+  - Nigel G. Laing
+  - Daniel G. MacArthur
+  - Alicia Oshlack
+  publisher: Genome Biology
+  date: '2018-08-21'
+  link: https://doi.org/gd49p5
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:9781491922941
+  title: Elegant SciPy
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Juan Nunez-Iglesias
+  - "Ste\u0301fan Van der Walt"
+  - Harriet Dashnow
+  publisher: O'Reilly Media, Inc.
+  date: '2024-01-02'
+  link: https://github.com/elegant-scipy/elegant-scipy
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ejhg.2017.123
+  title: A clinically driven variant prioritization framework outperforms purely computational
+    approaches for the diagnostic analysis of singleton WES data
+  authors:
+  - Zornitza Stark
+  - Harriet Dashnow
+  - Sebastian Lunke
+  - Tiong Y Tan
+  - Alison Yeung
+  - Simon Sadedin
+  - Natalie Thorne
+  - Ivan Macciocca
+  - Clara Gaff
+  - Alicia Oshlack
+  - Susan M White
+  - Paul A James
+  publisher: European Journal of Human Genetics
+  date: '2017-08-23'
+  link: https://doi.org/gbr77c
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1004526
+  title: Ten Simple Rules for a Bioinformatics Journal Club
+  authors:
+  - Andrew Lonsdale
+  - Jocelyn Sietsma Penington
+  - Timothy Rice
+  - Michael Walker
+  - Harriet Dashnow
+  publisher: PLOS Computational Biology
+  date: '2016-01-28'
+  link: https://doi.org/ghcwtj
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13073-015-0191-x
+  title: 'Cpipe: a shared variant detection pipeline designed for diagnostic settings'
+  authors:
+  - Simon P. Sadedin
+  - Harriet Dashnow
+  - Paul A. James
+  - Melanie Bahlo
+  - Denis C. Bauer
+  - Andrew Lonie
+  - Sebastian Lunke
+  - Ivan Macciocca
+  - Jason P. Ross
+  - Kirby R. Siemering
+  - Zornitza Stark
+  - Susan M. White
+  - Graham Taylor
+  - Clara Gaff
+  - Alicia Oshlack
+  - Natalie P. Thorne
+  publisher: Genome Medicine
+  date: '2015-07-10'
+  link: https://doi.org/gsrsm4
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1003858
+  title: Ten Simple Rules for Writing a PLOS Ten Simple Rules Article
+  authors:
+  - Harriet Dashnow
+  - Andrew Lonsdale
+  - Philip E. Bourne
+  publisher: PLoS Computational Biology
+  date: '2014-10-23'
+  link: https://doi.org/gfrj9s
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ucc.2014.113
+  title: 'Data Interlocking: Coupling Analytics to the Data'
+  authors:
+  - Yousef Kowsar
+  - Harriet Dashnow
+  - Andrew Lonie
+  publisher: 2014 IEEE/ACM 7th International Conference on Utility and Cloud Computing
+  date: '2014-12-01'
+  link: https://doi.org/gsrsm5
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13073-014-0090-6
+  title: 'SRST2: Rapid genomic surveillance for public health and hospital microbiology
+    labs'
+  authors:
+  - Michael Inouye
+  - Harriet Dashnow
+  - Lesley-Ann Raven
+  - Mark B Schultz
+  - Bernard J Pope
+  - Takehiro Tomita
+  - Justin Zobel
+  - Kathryn E Holt
+  publisher: Genome Medicine
+  date: '2014-11-20'
+  link: https://doi.org/gf9sd9
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0044974
+  title: Development of Transgenic Mice Containing an Introduced Stop Codon on the
+    Human Methylmalonyl-CoA Mutase Locus
+  authors:
+  - Nicole E. Buck
+  - Harriet Dashnow
+  - James J. Pitt
+  - Leonie R. Wood
+  - Heidi L. Peters
+  publisher: PLoS ONE
+  date: '2012-09-14'
+  link: https://doi.org/gsrsm6
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
