@@ -23,7 +23,6 @@ patients with relevant expertise and to perform genomics at scale.
 {% capture text %}
 
 
-
 {%
   include button.html
   link="research"
@@ -68,7 +67,6 @@ patients with relevant expertise and to perform genomics at scale.
 %}
 
 {% capture text %}
-
 
 
 {%
