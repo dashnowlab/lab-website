@@ -33,6 +33,15 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-023-02057-3/MediaObjects/41587_2023_2057_Fig1_HTML.png?as=webp
+  buttons:
+  - type: paper
+    link: https://rdcu.be/du1fr
+  - type: github
+    link: https://github.com/PacificBiosciences/trgt
+  tags:
+  - long reads
+  - STRs
+  - VNTRs
 - id: doi:10.1186/s13059-022-02826-4
   title: 'STRling: a k-mer counting approach that detects short tandem repeat expansions
     at known and novel loci'
