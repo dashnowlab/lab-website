@@ -69,3 +69,14 @@
   - long reads
   - STRs
   - VNTRs
+
+- id: doi:10.1038/s41576-024-00692-3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41576-024-00692-3/MediaObjects/41576_2024_692_Fig1_HTML.png?as=webp
+  buttons:
+  - type: paper
+    link: https://rdcu.be/dyNxg
+  tags:
+  - STRs
+  - long reads
+  - short reads
+  - review
