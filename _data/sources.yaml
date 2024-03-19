@@ -80,3 +80,12 @@
   - long reads
   - short reads
   - review
+
+- id: doi:10.1101/2024.03.05.24303792
+  image: https://www.medrxiv.org/content/medrxiv/early/2024/03/07/2024.03.05.24303792/F5.large.jpg
+  buttons:
+  - type: paper
+    link: https://www.medrxiv.org/content/10.1101/2024.03.05.24303792v1.full-text
+  tags:
+  - STRs
+  - long reads
