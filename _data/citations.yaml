@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41576-024-00692-3
+  title: Sequencing and characterizing short tandem repeats in the human genome
+  authors:
+  - Hope A. Tanudisastro
+  - Ira W. Deveson
+  - Harriet Dashnow
+  - Daniel G. MacArthur
+  publisher: Nature Reviews Genetics
+  date: '2024-02-16'
+  link: https://doi.org/gthw4s
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41587-023-02057-3
   title: Characterization and visualization of tandem repeats at genome scale
   authors:
