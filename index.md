@@ -5,7 +5,10 @@ The Dashnow Lab launches July 2024!
 
 We are a computational genomics lab at the University of Colorado, [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi/).
 
-We are **currently recruiting** postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
+We are **currently recruiting** [postdocs](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33187&lang=en), staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
+
+## Current job postings:
+- [Postdoc](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33187&lang=en)
 
 # Welcome to the Dashnow Lab
 

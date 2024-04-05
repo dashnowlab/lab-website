@@ -7,7 +7,10 @@ nav:
 
 
 
-We are currently recruiting postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
+We are currently recruiting [postdocs](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33187&lang=en), staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
+
+## Current job postings:
+- [Postdoc](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33187&lang=en)
 
 {% include section.html %}
 
@@ -27,8 +30,8 @@ We are currently recruiting postdocs, staff scientists and students. If you're p
 {%
   include figure.html
   image="images/DBMIbuilding.jpg"
-  caption="Employment Opportunities at CU Biomedical Informatics"
-  link="https://medschool.cuanschutz.edu/dbmi/employment"
+  caption="Apply for a postdoc position"
+  link="https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33187&lang=en"
 %}
 
 {% endcapture %}
