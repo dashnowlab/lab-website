@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.05.21.24307682
+  title: 'STRchive: a dynamic resource detailing population-level and locus-specific
+    insights at tandem repeat disease loci'
+  authors:
+  - Laurel Hiatt
+  - Ben Weisburd
+  - Egor Dolzhenko
+  - Grace E. VanNoy
+  - Edibe Nehir Kurtas
+  - Heidi L. Rehm
+  - Aaron Quinlan
+  - Harriet Dashnow
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-05-21'
+  link: https://doi.org/gtwmcb
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.03.05.24303792
   title: Nanopore sequencing of 1000 Genomes Project samples to build a comprehensive
     catalog of human genetic variation
