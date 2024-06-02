@@ -89,3 +89,35 @@
   tags:
   - STRs
   - long reads
+
+- id: doi:10.1101/2024.05.21.24307682
+  image: https://www.medrxiv.org/content/medrxiv/early/2024/05/21/2024.05.21.24307682/F4.large.jpg
+  buttons:
+  - type: paper
+    link: https://www.medrxiv.org/content/10.1101/2024.05.21.24307682v1.full-text
+  - type: website
+    link: http://strchive.org/
+  - type: github
+    link: https://github.com/dashnowlab/STRchive
+  tags:
+    - short reads
+    - STRs
+    - resource
+    - database
+    - population variation
+
+- id: doi:10.35542/osf.io/pys86
+  title: 'Spotted with AuDHD: Seeing Yourself in a Mentor Who Sees You.'
+  authors:
+  - Laurel Hiatt
+  publisher: EdArXiv
+  date: '2024-06-01'
+  image: https://upload.wikimedia.org/wikipedia/commons/4/4e/Pastel_Neurodiversity_Symbol.png
+  buttons:
+  - type: paper
+    link: https://doi.org/10.35542/osf.io/pys86
+  tags:
+    - Essay
+    - Mentorship
+    - Careers
+    - Neurodiversity
