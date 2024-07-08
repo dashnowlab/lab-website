@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41576-024-00692-3
+  title: Sequencing and characterizing short tandem repeats in the human genome
+  authors:
+  - Hope A. Tanudisastro
+  - Ira W. Deveson
+  - Harriet Dashnow
+  - Daniel G. MacArthur
+  publisher: Nature Reviews Genetics
+  date: '2024-02-16'
+  link: https://doi.org/gthw4s
+  orcid: 0000-0001-8433-6270
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41576-024-00692-3/MediaObjects/41576_2024_692_Fig1_HTML.png?as=webp
+  buttons:
+  - type: paper
+    link: https://rdcu.be/dyNxg
+  tags:
+  - STRs
+  - long reads
+  - short reads
+  - review
 - id: doi:10.1101/2024.05.21.24307682
   title: 'STRchive: a dynamic resource detailing population-level and locus-specific
     insights at tandem repeat disease loci'
@@ -96,28 +118,6 @@
   tags:
   - STRs
   - long reads
-- id: doi:10.1038/s41576-024-00692-3
-  title: Sequencing and characterizing short tandem repeats in the human genome
-  authors:
-  - Hope A. Tanudisastro
-  - Ira W. Deveson
-  - Harriet Dashnow
-  - Daniel G. MacArthur
-  publisher: Nature Reviews Genetics
-  date: '2024-02-16'
-  link: https://doi.org/gthw4s
-  orcid: 0000-0001-8433-6270
-  plugin: sources.py
-  file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41576-024-00692-3/MediaObjects/41576_2024_692_Fig1_HTML.png?as=webp
-  buttons:
-  - type: paper
-    link: https://rdcu.be/dyNxg
-  tags:
-  - STRs
-  - long reads
-  - short reads
-  - review
 - id: doi:10.1038/s41587-023-02057-3
   title: Characterization and visualization of tandem repeats at genome scale
   authors:
