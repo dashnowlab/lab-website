@@ -5,12 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-
-
-We are currently recruiting [postdocs](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33187&lang=en), staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
-
-## Current job postings:
-- [Postdoc](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33187&lang=en)
+We are currently recruiting postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
 
 {% include section.html %}
 
@@ -30,8 +25,8 @@ We are currently recruiting [postdocs](https://cu.taleo.net/careersection/2/jobd
 {%
   include figure.html
   image="images/DBMIbuilding.jpg"
-  caption="Apply for a postdoc position"
-  link="https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33187&lang=en"
+  caption="View open positions at DBMI"
+  link="https://medschool.cuanschutz.edu/dbmi/employment"
 %}
 
 {% endcapture %}
