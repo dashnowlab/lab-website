@@ -121,3 +121,13 @@
     - Mentorship
     - Careers
     - Neurodiversity
+
+- id: doi:10.1101/2024.07.16.600745
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/07/19/2024.07.16.600745/F3.large.jpg
+  buttons:
+  - type: github
+    link: https://github.com/PacificBiosciences/trgt-denovo
+  tags:
+  - long reads
+  - STRs
+  - VNTRs
