@@ -131,3 +131,14 @@
   - long reads
   - STRs
   - VNTRs
+
+- id: doi:10.1101/2024.08.05.606142
+  buttons:
+  - type: github
+    link: https://github.com/Platinum-Pedigree-Consortium
+  tags:
+  - long reads
+  - short reads
+  - STRs
+  - VNTRs
+  - mutation rates
