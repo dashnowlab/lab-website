@@ -19,16 +19,16 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-022-02826-4/MediaObjects/13059_2022_2826_Fig1_HTML.png?as=webp
   
 - id: doi:10.1093/gigascience/giz109
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/8/9/10.1093_gigascience_giz109/1/m_giz109fig1.jpeg?Expires=1706053890&Signature=CqIRA2eybkT~KepBn-QvzCmX6NquCv6IajnS3h-GRTbMB68f7BVYojI1KgBaj9bO1UfHNXKPQ~P7Xv7IctuEd2SxVWMcDnVo3z8KBdKwaYgDov58W9xu2mtbryAQj3gfNOTlGlAaceCaApADxMBwKzgFBFyLobuc~nje2q9tAKS6kKGIIZlfM55A1SCAoi00tFNvS2bhr1KTqwZR5FUFv5qx2nkNW2k-crx3xkfTnXpRPWVxzhWLaQ9hf8UADx-7hC-LfOHe4PKR5Z66yaCkn1X3WEDlpomEeRvg3bFdkDFPTiF~lhGrRck2vBtTcukox3El3~u9p~yL3DmL7twkFg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://avatars.githubusercontent.com/u/18712843?s=200&v=4
   buttons:
-    - type: website
-      link: https://github.com/bionitio-team/bionitio
+    - type: github
+      link: bionitio-team/bionitio
 
 - id: doi:10.1186/s13059-018-1505-2
   image: images/STRetch.jpg
   buttons:
-    - type: website
-      link: https://github.com/Oshlack/STRetch
+    - type: github
+      link: Oshlack/STRetch
   
 - id: doi:10.1038/ejhg.2017.123
   description: Melbourne Genomics variant prioritisation
@@ -64,7 +64,7 @@
   - type: paper
     link: https://rdcu.be/du1fr
   - type: github
-    link: https://github.com/PacificBiosciences/trgt
+    link: PacificBiosciences/trgt
   tags:
   - long reads
   - STRs
@@ -98,7 +98,7 @@
   - type: website
     link: http://strchive.org/
   - type: github
-    link: https://github.com/dashnowlab/STRchive
+    link: dashnowlab/STRchive
   tags:
     - short reads
     - STRs
@@ -126,16 +126,21 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2024/07/19/2024.07.16.600745/F3.large.jpg
   buttons:
   - type: github
-    link: https://github.com/PacificBiosciences/trgt-denovo
+    link: PacificBiosciences/trgt-denovo
   tags:
   - long reads
   - STRs
   - VNTRs
 
 - id: doi:10.1101/2024.08.05.606142
+  title: 'A familial, telomere-to-telomere reference for human de novo mutation and recombination from a four-generation pedigree'
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/08/05/2024.08.05.606142/F1.large.jpg
+  date: '2024-08-05'
   buttons:
   - type: github
-    link: https://github.com/Platinum-Pedigree-Consortium
+    link: Platinum-Pedigree-Consortium
+  - type: paper
+    link: https://www.biorxiv.org/content/10.1101/2024.08.05.606142v1
   tags:
   - long reads
   - short reads
