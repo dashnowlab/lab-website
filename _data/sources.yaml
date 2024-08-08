@@ -123,6 +123,7 @@
     - Neurodiversity
 
 - id: doi:10.1101/2024.07.16.600745
+  title: 'TRGT-denovo: accurate detection of <i>de novo</i> tandem repeat mutations'
   image: https://www.biorxiv.org/content/biorxiv/early/2024/07/19/2024.07.16.600745/F3.large.jpg
   buttons:
   - type: github
@@ -132,9 +133,8 @@
   - STRs
   - VNTRs
 
-# - id: doi:10.1101/2024.08.05.606142
-- id: ''
-  title: 'A familial, telomere-to-telomere reference for human de novo mutation and recombination from a four-generation pedigree'
+- id: doi:10.1101/2024.08.05.606142
+  title: 'A familial, telomere-to-telomere reference for human <i>de novo</i> mutation and recombination from a four-generation pedigree'
   image: https://www.biorxiv.org/content/biorxiv/early/2024/08/05/2024.08.05.606142/F1.large.jpg
   date: '2024-08-05'
   buttons:
