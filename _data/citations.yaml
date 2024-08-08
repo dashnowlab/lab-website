@@ -1,5 +1,62 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.08.05.606142
+  title: A familial, telomere-to-telomere reference for human<i>de novo</i>mutation
+    and recombination from a four-generation pedigree
+  authors:
+  - David Porubsky
+  - Harriet Dashnow
+  - Thomas A. Sasani
+  - Glennis A. Logsdon
+  - Pille Hallast
+  - Michelle D. Noyes
+  - Zev N. Kronenberg
+  - Tom Mokveld
+  - Nidhi Koundinya
+  - Cillian Nolan
+  - Cody J. Steely
+  - Andrea Guarracino
+  - Egor Dolzhenko
+  - William T. Harvey
+  - William J. Rowell
+  - Kirill Grigorev
+  - Thomas J. Nicholas
+  - Keisuke K. Oshima
+  - Jiadong Lin
+  - Peter Ebert
+  - W. Scott Watkins
+  - Tiffany Y. Leung
+  - Vincent C.T. Hanlon
+  - Sean McGee
+  - Brent S. Pedersen
+  - Michael E. Goldberg
+  - Hannah C. Happ
+  - Hyeonsoo Jeong
+  - Katherine M. Munson
+  - Kendra Hoekzema
+  - Daniel D. Chan
+  - Yanni Wang
+  - Jordan Knuth
+  - Gage H. Garcia
+  - Cairbre Fanslow
+  - Christine Lambert
+  - Charles Lee
+  - Joshua D. Smith
+  - Shawn Levy
+  - Christopher E. Mason
+  - Erik Garrison
+  - Peter M. Lansdorp
+  - Deborah W. Neklason
+  - Lynn B. Jorde
+  - Aaron R. Quinlan
+  - Michael A. Eberle
+  - Evan E. Eichler
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-08-05'
+  link: https://doi.org/gt6n6k
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.07.16.600745
   title: 'TRGT-denovo: accurate detection of<i>de novo</i>tandem repeat mutations'
   authors:
