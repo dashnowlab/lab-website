@@ -210,15 +210,8 @@
   date: '2024-03-07'
   link: https://doi.org/gtnd8b
   orcid: 0000-0001-8433-6270
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.medrxiv.org/content/medrxiv/early/2024/03/07/2024.03.05.24303792/F5.large.jpg
-  buttons:
-  - type: paper
-    link: https://www.medrxiv.org/content/10.1101/2024.03.05.24303792v1.full-text
-  tags:
-  - STRs
-  - long reads
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41587-023-02057-3
   title: Characterization and visualization of tandem repeats at genome scale
   authors:
@@ -517,6 +510,69 @@
   plugin: sources.py
   file: sources.yaml
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0044974.g001
+- id: doi:10.1101/gr.279273.124
+  title: High-coverage nanopore sequencing of samples from the 1000 Genomes Project
+    to build a comprehensive catalog of human genetic variation
+  authors:
+  - Jonas A Gustafson
+  - Sophia B Gibson
+  - Nikhita Damaraju
+  - Miranda PG Zalusky
+  - Kendra Hoekzema
+  - David Twesigomwe
+  - Lei Yang
+  - Anthony A Snead
+  - Phillip A Richmond
+  - Wouter De Coster
+  - Nathan D Olson
+  - Andrea Guarracino
+  - Qiuhui Li
+  - Angela L Miller
+  - Joy Goffena
+  - Zachery B Anderson
+  - Sophie HR Storz
+  - Sydney A Ward
+  - Maisha Sinha
+  - Claudia Gonzaga-Jauregui
+  - Wayne E Clarke
+  - Anna O Basile
+  - Andre Corvelo
+  - Catherine E Reeves
+  - Adrienne Helland
+  - Rajeeva Lochan Musunuri
+  - Mahler Revsine
+  - Karynne E Patterson
+  - Cate Paschal
+  - Christina Zakarian
+  - Sara Goodwin
+  - Tanner D Jensen
+  - Esther Robb
+  - W. Richard McCombie
+  - Fritz J Sedlazeck
+  - Justin M Zook
+  - Stephen B Montgomery
+  - Erik Garrison
+  - Mikhail Kolmogorov
+  - Michael C Schatz
+  - Richard N McLaughlin
+  - Harriet Dashnow
+  - Michael C Zody
+  - Matthew Loose
+  - Miten Jain
+  - Evan E Eichler
+  - Danny E. Miller
+  publisher: Genome Research
+  date: '2024-10-02'
+  link: https://doi.org/g7np5q
+  image: https://www.medrxiv.org/content/medrxiv/early/2024/03/07/2024.03.05.24303792/F5.large.jpg
+  buttons:
+  - type: paper
+    link: https://genome.cshlp.org/content/early/2024/10/02/gr.279273.124.abstract
+  tags:
+  - STRs
+  - long reads
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.35542/osf.io/pys86
   title: 'Spotted with AuDHD: Seeing Yourself in a Mentor Who Sees You.'
   authors:
@@ -533,5 +589,80 @@
   - Mentorship
   - Careers
   - Neurodiversity
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.10.04.615514
+  title: Defining a tandem repeat catalog and variation clusters for genome-wide analyses
+    and population databases
+  authors:
+  - Ben Weisburd
+  - Egor Dolzhenko
+  - Mark F. Bennett
+  - Matt C. Danzi
+  - Adam English
+  - Laurel Hiatt
+  - Hope Tanudisastro
+  - Nehir Edibe Kurtas
+  - Helyaneh Ziaei Jam
+  - Harrison Brand
+  - Fritz J. Sedlazeck
+  - Melissa Gymrek
+  - Harriet Dashnow
+  - Michael A. Eberle
+  - Heidi L. Rehm
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-05'
+  link: https://doi.org/g75bj9
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/05/2024.10.04.615514/F2.large.jpg
+  buttons:
+  - type: paper
+    link: https://www.biorxiv.org/content/10.1101/2024.10.04.615514v1
+  tags:
+  - long reads
+  - short reads
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.10.02.616333
+  title: 'The Platinum Pedigree: A long-read benchmark for genetic variants'
+  authors:
+  - Zev Kronenberg
+  - Cillian Nolan
+  - Tom Mokveld
+  - William J Rowell
+  - Sangjin Lee
+  - Egor Dolzhenko
+  - Pi-Chuan Chang
+  - James Matthew Holt
+  - Christopher T Saunders
+  - Nathanael D. Olson
+  - Sean McGee
+  - Andrea Guarracino
+  - Nidhi Koundinya
+  - William T Harvey
+  - W. Scott Watkins
+  - Katherine M Munson
+  - Kendra Hoekzema
+  - Khi Pin Chua
+  - Cairbre Fanslow
+  - Christine Lambert
+  - Harriet Dashnow
+  - Erik Garrison
+  - Josh Smith
+  - Peter Lansdorp
+  - Justin M Zook
+  - Andrew Carroll
+  - Lynn B. Jorde
+  - Deborah W Neklason
+  - Aaron Quinlan
+  - Evan Eichler
+  - Michael A Eberle
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-03'
+  link: https://doi.org/g75b3z
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/03/2024.10.02.616333/F1.large.jpg
+  tags:
+  - genome annotation
+  - STRs
+  - VNTRs
   plugin: sources.py
   file: sources.yaml

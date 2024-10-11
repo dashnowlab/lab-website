@@ -81,11 +81,11 @@
   - short reads
   - review
 
-- id: doi:10.1101/2024.03.05.24303792
+- id: doi:10.1101/gr.279273.124
   image: https://www.medrxiv.org/content/medrxiv/early/2024/03/07/2024.03.05.24303792/F5.large.jpg
   buttons:
   - type: paper
-    link: https://www.medrxiv.org/content/10.1101/2024.03.05.24303792v1.full-text
+    link: https://genome.cshlp.org/content/early/2024/10/02/gr.279273.124.abstract
   tags:
   - STRs
   - long reads
@@ -148,3 +148,19 @@
   - STRs
   - VNTRs
   - mutation rates
+
+- id: doi:10.1101/2024.10.04.615514
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/05/2024.10.04.615514/F2.large.jpg
+  buttons:
+  - type: paper
+    link: https://www.biorxiv.org/content/10.1101/2024.10.04.615514v1
+  tags:
+  - long reads
+  - short reads
+
+- id: doi:10.1101/2024.10.02.616333
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/03/2024.10.02.616333/F1.large.jpg
+  tags:
+  - genome annotation
+  - STRs
+  - VNTRs
