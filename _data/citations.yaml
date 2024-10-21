@@ -1,5 +1,47 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41587-023-02057-3
+  title: Characterization and visualization of tandem repeats at genome scale
+  authors:
+  - Egor Dolzhenko
+  - Adam English
+  - Harriet Dashnow
+  - Guilherme De Sena Brandine
+  - Tom Mokveld
+  - William J. Rowell
+  - Caitlin Karniski
+  - Zev Kronenberg
+  - Matt C. Danzi
+  - Warren A. Cheung
+  - Chengpeng Bi
+  - Emily Farrow
+  - Aaron Wenger
+  - Khi Pin Chua
+  - "Ver\xF3nica Mart\xEDnez-Cerde\xF1o"
+  - Trevor D. Bartley
+  - Peng Jin
+  - David L. Nelson
+  - Stephan Zuchner
+  - Tomi Pastinen
+  - Aaron R. Quinlan
+  - Fritz J. Sedlazeck
+  - Michael A. Eberle
+  publisher: Nature Biotechnology
+  date: '2024-01-02'
+  link: https://doi.org/gtbst8
+  orcid: 0000-0001-8433-6270
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-023-02057-3/MediaObjects/41587_2023_2057_Fig1_HTML.png?as=webp
+  buttons:
+  - type: paper
+    link: https://rdcu.be/du1fr
+  - type: github
+    link: PacificBiosciences/trgt
+  tags:
+  - long reads
+  - STRs
+  - VNTRs
 - id: doi:10.1101/2024.08.05.606142
   title: A familial, telomere-to-telomere reference for human <i>de novo</i> mutation
     and recombination from a four-generation pedigree
@@ -212,48 +254,6 @@
   orcid: 0000-0001-8433-6270
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41587-023-02057-3
-  title: Characterization and visualization of tandem repeats at genome scale
-  authors:
-  - Egor Dolzhenko
-  - Adam English
-  - Harriet Dashnow
-  - Guilherme De Sena Brandine
-  - Tom Mokveld
-  - William J. Rowell
-  - Caitlin Karniski
-  - Zev Kronenberg
-  - Matt C. Danzi
-  - Warren A. Cheung
-  - Chengpeng Bi
-  - Emily Farrow
-  - Aaron Wenger
-  - Khi Pin Chua
-  - "Ver\xF3nica Mart\xEDnez-Cerde\xF1o"
-  - Trevor D. Bartley
-  - Peng Jin
-  - David L. Nelson
-  - Stephan Zuchner
-  - Tomi Pastinen
-  - Aaron R. Quinlan
-  - Fritz J. Sedlazeck
-  - Michael A. Eberle
-  publisher: Nature Biotechnology
-  date: '2024-01-02'
-  link: https://doi.org/gtbst8
-  orcid: 0000-0001-8433-6270
-  plugin: sources.py
-  file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-023-02057-3/MediaObjects/41587_2023_2057_Fig1_HTML.png?as=webp
-  buttons:
-  - type: paper
-    link: https://rdcu.be/du1fr
-  - type: github
-    link: PacificBiosciences/trgt
-  tags:
-  - long reads
-  - STRs
-  - VNTRs
 - id: doi:10.1186/s13059-022-02826-4
   title: 'STRling: a k-mer counting approach that detects short tandem repeat expansions
     at known and novel loci'
