@@ -1,11 +1,16 @@
 ---
 ---
 
-We are a computational genomics lab at the University of Colorado, [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi/).
+# Current job postings, closing soon!  
+- [Genomics Software Developer (Data Scientist)](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=35396&lang=en)
+- [Genomics Data Analyst (Information Sciences Professional)](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=35393&lang=en)
 
 We are **currently recruiting** postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
 
+
 # Welcome to the Dashnow Lab
+
+We are a computational genomics lab at the University of Colorado, [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi/).
 
 We develop and apply computational methods for the diagnosis and discovery of the genetic basis of rare diseases. The lab has a special emphasis on Short Tandem Repeats and other hard-to-genotype variants. 
 
