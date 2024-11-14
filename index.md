@@ -1,10 +1,6 @@
 ---
 ---
 
-# Current job postings, closing soon!  
-- [Genomics Software Developer (Data Scientist)](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=35396&lang=en)
-- [Genomics Data Analyst (Information Sciences Professional)](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=35393&lang=en)
-
 We are **currently recruiting** postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
 
 
