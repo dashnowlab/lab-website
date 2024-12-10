@@ -111,6 +111,16 @@
   - STRs
   - VNTRs
   - mutation rates
+- id: doi:10.5281/zenodo.13178745
+  title: Platinum Tandem Repeats
+  authors:
+  - Harriet Dashnow
+  publisher: Zenodo
+  date: '2024-08-02'
+  link: https://doi.org/g8t89p
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.07.16.600745
   title: 'TRGT-denovo: accurate detection of <i>de novo</i> tandem repeat mutations'
   authors:
