@@ -373,10 +373,6 @@
     link: Oshlack/STRetch
 - id: isbn:9781491922941
   title: Elegant SciPy
-  authors:
-  - Juan Nunez-Iglesias
-  - "St\xE9fan van der Walt"
-  - Harriet Dashnow
   publisher: O'Reilly Media, Inc.
   date: '2017-11-08'
   link: https://github.com/elegant-scipy/elegant-scipy
@@ -384,6 +380,10 @@
   plugin: sources.py
   file: sources.yaml
   image: images/elegantscipy-cover.jpg
+  authors:
+  - Juan Nunez-Iglesias
+  - "St\xE9fan van der Walt"
+  - Harriet Dashnow
 - id: doi:10.1038/ejhg.2017.123
   title: A clinically driven variant prioritization framework outperforms purely computational
     approaches for the diagnostic analysis of singleton WES data
@@ -514,52 +514,52 @@
   title: High-coverage nanopore sequencing of samples from the 1000 Genomes Project
     to build a comprehensive catalog of human genetic variation
   authors:
-  - Jonas A Gustafson
-  - Sophia B Gibson
+  - Jonas A. Gustafson
+  - Sophia B. Gibson
   - Nikhita Damaraju
-  - Miranda PG Zalusky
+  - Miranda P.G. Zalusky
   - Kendra Hoekzema
   - David Twesigomwe
   - Lei Yang
-  - Anthony A Snead
-  - Phillip A Richmond
+  - Anthony A. Snead
+  - Phillip A. Richmond
   - Wouter De Coster
-  - Nathan D Olson
+  - Nathan D. Olson
   - Andrea Guarracino
   - Qiuhui Li
-  - Angela L Miller
+  - Angela L. Miller
   - Joy Goffena
-  - Zachery B Anderson
-  - Sophie HR Storz
-  - Sydney A Ward
+  - Zachary B. Anderson
+  - Sophie H.R. Storz
+  - Sydney A. Ward
   - Maisha Sinha
   - Claudia Gonzaga-Jauregui
-  - Wayne E Clarke
-  - Anna O Basile
-  - Andre Corvelo
-  - Catherine E Reeves
+  - Wayne E. Clarke
+  - Anna O. Basile
+  - "Andr\xE9 Corvelo"
+  - Catherine Reeves
   - Adrienne Helland
   - Rajeeva Lochan Musunuri
   - Mahler Revsine
-  - Karynne E Patterson
-  - Cate Paschal
+  - Karynne E. Patterson
+  - Cate R. Paschal
   - Christina Zakarian
   - Sara Goodwin
-  - Tanner D Jensen
+  - Tanner D. Jensen
   - Esther Robb
-  - W. Richard McCombie
-  - Fritz J Sedlazeck
-  - Justin M Zook
-  - Stephen B Montgomery
+  - William Richard McCombie
+  - Fritz J. Sedlazeck
+  - Justin M. Zook
+  - Stephen B. Montgomery
   - Erik Garrison
   - Mikhail Kolmogorov
-  - Michael C Schatz
-  - Richard N McLaughlin
+  - Michael C. Schatz
+  - Richard N. McLaughlin
   - Harriet Dashnow
-  - Michael C Zody
-  - Matthew Loose
+  - Michael C. Zody
+  - Matt Loose
   - Miten Jain
-  - Evan E Eichler
+  - Evan E. Eichler
   - Danny E. Miller
   publisher: Genome Research
   date: '2024-10-02'
