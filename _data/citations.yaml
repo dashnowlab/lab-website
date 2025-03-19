@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/genes16020216
+  title: 'Mosaicism in Short Tandem Repeat Disorders: A Clinical Perspective'
+  authors:
+  - Rose M. Doss
+  - Susana Lopez-Ignacio
+  - Anna Dischler
+  - Laurel Hiatt
+  - Harriet Dashnow
+  - Martin W. Breuss
+  - Caroline M. Dias
+  publisher: Genes
+  date: '2025-02-13'
+  link: https://doi.org/g883tw
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41587-023-02057-3
   title: Characterization and visualization of tandem repeats at genome scale
   authors:
@@ -197,63 +213,6 @@
   - resource
   - database
   - population variation
-- id: doi:10.1101/2024.03.05.24303792
-  title: Nanopore sequencing of 1000 Genomes Project samples to build a comprehensive
-    catalog of human genetic variation
-  authors:
-  - Jonas A Gustafson
-  - Sophia B Gibson
-  - Nikhita Damaraju
-  - Miranda PG Zalusky
-  - Kendra Hoekzema
-  - David Twesigomwe
-  - Lei Yang
-  - Anthony A Snead
-  - Phillip A Richmond
-  - Wouter De Coster
-  - Nathan D Olson
-  - Andrea Guarracino
-  - Qiuhui Li
-  - Angela L Miller
-  - Joy Goffena
-  - Zachery Anderson
-  - Sophie HR Storz
-  - Sydney A Ward
-  - Maisha Sinha
-  - Claudia Gonzaga-Jauregui
-  - Wayne E Clarke
-  - Anna O Basile
-  - Andre Corvelo
-  - Catherine E Reeves
-  - Adrienne Helland
-  - Rajeeva Lochan Musunuri
-  - Mahler Revsine
-  - Karynne E Patterson
-  - Cate Paschal
-  - Christina Zakarian
-  - Sara Goodwin
-  - Tanner D Jensen
-  - Esther Robb
-  - W. Richard McCombie
-  - Fritz J Sedlazeck
-  - Justin M Zook
-  - Stephen B Montgomery
-  - Erik Garrison
-  - Mikhail Kolmogorov
-  - Michael C Schatz
-  - Richard N McLaughlin
-  - Harriet Dashnow
-  - Michael C Zody
-  - Matthew Loose
-  - Miten Jain
-  - Evan E Eichler
-  - Danny E Miller
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-03-07'
-  link: https://doi.org/gtnd8b
-  orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/s13059-022-02826-4
   title: 'STRling: a k-mer counting approach that detects short tandem repeat expansions
     at known and novel loci'
