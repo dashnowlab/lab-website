@@ -165,6 +165,14 @@
   - STRs
   - VNTRs
 
-- id: doi:10.1101/2024.11.02.621562
+- id: doi:10.3390/genes16020216
   image: https://www.biorxiv.org/content/biorxiv/early/2024/11/04/2024.11.02.621562/F1.large.jpg
-  
+
+- id: doi:10.1038/s41576-024-00692-3
+  image: https://pub.mdpi-res.com/genes/genes-16-00216/article_deploy/html/images/genes-16-00216-g002.png
+  buttons:
+  - type: paper
+  tags:
+  - STRs
+  - mosaicism
+  - review

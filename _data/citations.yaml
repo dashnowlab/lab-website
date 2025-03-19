@@ -156,14 +156,12 @@
   orcid: 0000-0001-8433-6270
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41576-024-00692-3/MediaObjects/41576_2024_692_Fig1_HTML.png?as=webp
+  image: https://pub.mdpi-res.com/genes/genes-16-00216/article_deploy/html/images/genes-16-00216-g002.png
   buttons:
   - type: paper
-    link: https://rdcu.be/dyNxg
   tags:
   - STRs
-  - long reads
-  - short reads
+  - mosaicism
   - review
 - id: doi:10.1101/2024.05.21.24307682
   title: 'STRchive: a dynamic resource detailing population-level and locus-specific
@@ -373,6 +371,10 @@
     link: Oshlack/STRetch
 - id: isbn:9781491922941
   title: Elegant SciPy
+  authors:
+  - Juan Nunez-Iglesias
+  - "St\xE9fan van der Walt"
+  - Harriet Dashnow
   publisher: O'Reilly Media, Inc.
   date: '2017-11-08'
   link: https://github.com/elegant-scipy/elegant-scipy
@@ -380,10 +382,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/elegantscipy-cover.jpg
-  authors:
-  - Juan Nunez-Iglesias
-  - "St\xE9fan van der Walt"
-  - Harriet Dashnow
 - id: doi:10.1038/ejhg.2017.123
   title: A clinically driven variant prioritization framework outperforms purely computational
     approaches for the diagnostic analysis of singleton WES data
@@ -666,60 +664,19 @@
   - VNTRs
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.11.02.621562
-  title: Polymorphic tandem repeats shape single-cell gene expression across the immune
-    landscape
+- id: doi:10.3390/genes16020216
+  title: 'Mosaicism in Short Tandem Repeat Disorders: A Clinical Perspective'
   authors:
-  - Hope A. Tanudisastro
-  - Anna S.E. Cuomo
-  - Ben Weisburd
-  - Matthew Welland
-  - Eleanor Spenceley
-  - Michael Franklin
-  - Angli Xue
-  - Blake Bowen
-  - Kristof Wing
-  - Owen Tang
-  - Michael Gray
-  - Andre L.M. Reis
-  - Jonathan Margoliash
-  - Edibe Nehir Kurtas
-  - Jeffrey Pullin
-  - Arthur S. Lee
-  - Harrison Brand
-  - Michael Harper
-  - Katalina Bobowik
-  - Michael Silk
-  - John Marshall
-  - Vivian Bakiris
-  - Bindu Swapna Madala
-  - Caitlin Uren
-  - Caitlin Bartie
-  - Anne Senabouth
+  - Rose M. Doss
+  - Susana Lopez-Ignacio
+  - Anna Dischler
+  - Laurel Hiatt
   - Harriet Dashnow
-  - Liam Fearnley
-  - Egor Dolzhenko
-  - Zhen Qiao
-  - Stuart Grieve
-  - Tung Nguyen
-  - Michael Talkowski
-  - Stephen I. Alexander
-  - Owen M. Siggs
-  - Leonhard Gruenschloss
-  - Hannah R. Nicholas
-  - Jennifer Piscionere
-  - Cas Simons
-  - Chris Wallace
-  - Melissa Gymrek
-  - Ira W. Deveson
-  - Alex W. Hewitt
-  - Gemma A. Figtree
-  - Katrina M. de Lange
-  - Joseph E. Powell
-  - Daniel G. MacArthur
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-11-04'
-  link: https://doi.org/g8q5v2
+  - Martin W. Breuss
+  - Caroline M. Dias
+  publisher: Genes
+  date: '2025-02-13'
+  link: https://doi.org/g883tw
   image: https://www.biorxiv.org/content/biorxiv/early/2024/11/04/2024.11.02.621562/F1.large.jpg
   plugin: sources.py
   file: sources.yaml
