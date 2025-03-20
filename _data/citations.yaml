@@ -14,8 +14,15 @@
   date: '2025-02-13'
   link: https://doi.org/g883tw
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.mdpi.com/genes/genes-16-00216/article_deploy/html/images/genes-16-00216-g002.png
+  buttons:
+  - type: paper
+  tags:
+  - STRs
+  - mosaicism
+  - review
 - id: doi:10.1038/s41587-023-02057-3
   title: Characterization and visualization of tandem repeats at genome scale
   authors:
@@ -680,27 +687,5 @@
   date: '2024-11-04'
   link: https://www.biorxiv.org/content/10.1101/2024.11.02.621562v1
   image: https://www.biorxiv.org/content/biorxiv/early/2024/11/04/2024.11.02.621562/F1.large.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: https://doi.org/10.3390/genes16020216
-  title: 'Mosaicism in Short Tandem Repeat Disorders: A Clinical Perspective'
-  authors:
-  - Rose M. Doss
-  - Susana Lopez-Ignacio
-  - Anna Dischler
-  - Laurel Hiatt
-  - Harriet Dashnow
-  - Martin W. Breuss
-  - Caroline M. Dias
-  publisher: Genes
-  date: '2025-02-13'
-  link: https://www.mdpi.com/2073-4425/16/2/216
-  image: https://www.mdpi.com/genes/genes-16-00216/article_deploy/html/images/genes-16-00216-g002.png
-  buttons:
-  - type: paper
-  tags:
-  - STRs
-  - mosaicism
-  - review
   plugin: sources.py
   file: sources.yaml
