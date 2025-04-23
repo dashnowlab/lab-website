@@ -1,5 +1,61 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41586-025-08922-2
+  title: Human de novo mutation rates from a four-generation pedigree reference
+  authors:
+  - David Porubsky
+  - Harriet Dashnow
+  - Thomas A. Sasani
+  - Glennis A. Logsdon
+  - Pille Hallast
+  - Michelle D. Noyes
+  - Zev N. Kronenberg
+  - Tom Mokveld
+  - Nidhi Koundinya
+  - Cillian Nolan
+  - Cody J. Steely
+  - Andrea Guarracino
+  - Egor Dolzhenko
+  - William T. Harvey
+  - William J. Rowell
+  - Kirill Grigorev
+  - Thomas J. Nicholas
+  - Michael E. Goldberg
+  - Keisuke K. Oshima
+  - Jiadong Lin
+  - Peter Ebert
+  - W. Scott Watkins
+  - Tiffany Y. Leung
+  - Vincent C. T. Hanlon
+  - Sean McGee
+  - Brent S. Pedersen
+  - Hannah C. Happ
+  - Hyeonsoo Jeong
+  - Katherine M. Munson
+  - Kendra Hoekzema
+  - Daniel D. Chan
+  - Yanni Wang
+  - Jordan Knuth
+  - Gage H. Garcia
+  - Cairbre Fanslow
+  - Christine Lambert
+  - Charles Lee
+  - Joshua D. Smith
+  - Shawn Levy
+  - Christopher E. Mason
+  - Erik Garrison
+  - Peter M. Lansdorp
+  - Deborah W. Neklason
+  - Lynn B. Jorde
+  - Aaron R. Quinlan
+  - Michael A. Eberle
+  - Evan E. Eichler
+  publisher: Nature
+  date: '2025-04-23'
+  link: https://doi.org/g9gfcn
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/genes16020216
   title: 'Mosaicism in Short Tandem Repeat Disorders: A Clinical Perspective'
   authors:
