@@ -92,9 +92,12 @@
 
 - id: doi:10.1101/2024.05.21.24307682
   image: https://www.medrxiv.org/content/medrxiv/early/2024/05/21/2024.05.21.24307682/F4.large.jpg
+
+- id: doi:10.1186/s13073-025-01454-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13073-025-01454-4/MediaObjects/13073_2025_1454_Fig4_HTML.png?as=webp
   buttons:
   - type: paper
-    link: https://www.medrxiv.org/content/10.1101/2024.05.21.24307682v1.full-text
+    link: https://doi.org/g9gwv2
   - type: website
     link: http://strchive.org/
   - type: github
@@ -165,7 +168,7 @@
   - STRs
   - VNTRs
 
-- id: https://doi.org/10.1101/2024.11.02.621562
+- id: doi:10.1101/2024.11.02.621562
   image: https://www.biorxiv.org/content/biorxiv/early/2024/11/04/2024.11.02.621562/F1.large.jpg
 
 - id: doi:10.3390/genes16020216
