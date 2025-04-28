@@ -98,22 +98,8 @@
   date: '2025-03-26'
   link: https://doi.org/g9gwv2
   orcid: 0000-0001-8433-6270
-  plugin: sources.py
-  file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13073-025-01454-4/MediaObjects/13073_2025_1454_Fig4_HTML.png?as=webp
-  buttons:
-  - type: paper
-    link: https://doi.org/g9gwv2
-  - type: website
-    link: http://strchive.org/
-  - type: github
-    link: dashnowlab/STRchive
-  tags:
-  - short reads
-  - STRs
-  - resource
-  - database
-  - population variation
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.08.05.606142
   title: A familial, telomere-to-telomere reference for human <i>de novo</i> mutation
     and recombination from a four-generation pedigree
@@ -375,25 +361,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-11-04'
   link: https://doi.org/g8q5v2
-  orcid: 0000-0001-8433-6270
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/11/04/2024.11.02.621562/F1.large.jpg
-- id: doi:10.1101/2024.05.21.24307682
-  title: 'STRchive: a dynamic resource detailing population-level and locus-specific
-    insights at tandem repeat disease loci'
-  authors:
-  - Laurel Hiatt
-  - Ben Weisburd
-  - Egor Dolzhenko
-  - Grace E. VanNoy
-  - Edibe Nehir Kurtas
-  - Heidi L. Rehm
-  - Aaron Quinlan
-  - Harriet Dashnow
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-05-21'
-  link: https://doi.org/gtwmcb
   orcid: 0000-0001-8433-6270
   plugin: orcid.py
   file: orcid.yaml
@@ -752,6 +719,37 @@
   plugin: sources.py
   file: sources.yaml
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0044974.g001
+- id: doi:10.1101/2024.05.21.24307682
+  title: 'STRchive: a dynamic resource detailing population-level and locus-specific
+    insights at tandem repeat disease loci'
+  authors:
+  - Laurel Hiatt
+  - Ben Weisburd
+  - Egor Dolzhenko
+  - Grace E. VanNoy
+  - Edibe Nehir Kurtas
+  - Heidi L. Rehm
+  - Aaron Quinlan
+  - Harriet Dashnow
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-05-21'
+  link: https://doi.org/gtwmcb
+  image: https://www.medrxiv.org/content/medrxiv/early/2024/05/21/2024.05.21.24307682/F4.large.jpg
+  buttons:
+  - type: paper
+    link: https://www.medrxiv.org/content/10.1101/2024.05.21.24307682v1.full-text
+  - type: website
+    link: http://strchive.org/
+  - type: github
+    link: dashnowlab/STRchive
+  tags:
+  - short reads
+  - STRs
+  - resource
+  - database
+  - population variation
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.35542/osf.io/pys86
   title: 'Spotted with AuDHD: Seeing Yourself in a Mentor Who Sees You.'
   authors:
@@ -768,5 +766,62 @@
   - Mentorship
   - Careers
   - Neurodiversity
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1101/2024.11.02.621562
+  title: Polymorphic tandem repeats shape single-cell gene expression across the immune
+    landscape
+  authors:
+  - Hope A. Tanudisastro
+  - Anna S. E. Cuomo
+  - Ben Weisburd
+  - Matthew Welland
+  - Eleanor Spenceley
+  - Michael Franklin
+  - Angli Xue
+  - Blake Bowen
+  - Kristof Wing
+  - Owen Tang
+  - Michael Gray
+  - Andre L. M. Reis
+  - Jonathan Margoliash
+  - Edibe Nehir Kurtas
+  - Jeffrey Pullin
+  - Arthur S. Lee
+  - Harrison Brand
+  - Michael Harper
+  - Katalina Bobowik
+  - Michael Silk
+  - John Marshall
+  - Vivian Bakiris
+  - Bindu Swapna Madala
+  - Caitlin Uren
+  - Caitlin Bartie
+  - Anne Senabouth
+  - Harriet Dashnow
+  - Liam Fearnley
+  - Egor Dolzhenko
+  - Zhen Qiao
+  - Stuart Grieve
+  - Tung Nguyen
+  - Michael Talkowski
+  - Stephen I. Alexander
+  - Owen M. Siggs
+  - Leonhard Gruenschloss
+  - Hannah R. Nicholas
+  - Jennifer Piscionere
+  - Cas Simons
+  - Chris Wallace
+  - Melissa Gymrek
+  - Ira W. Deveson
+  - Alex W. Hewitt
+  - Gemma A. Figtree
+  - Katrina M. Lange
+  - Joseph E. Powell
+  - Daniel G. MacArthur
+  publisher: bioRxiv
+  date: '2024-11-04'
+  link: https://www.biorxiv.org/content/10.1101/2024.11.02.621562v1
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/11/04/2024.11.02.621562/F1.large.jpg
   plugin: sources.py
   file: sources.yaml
