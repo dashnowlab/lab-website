@@ -1,3 +1,12 @@
+- title: Platinum Pedigree
+  subtitle: A comprehensive reference for human genetic variation in a four-generation, 28-member family (CEPH 1463)
+  group: featured
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/08/05/2024.08.05.606142/F1.large.jpg
+  link: https://github.com/Platinum-Pedigree-Consortium
+  description: We employed five different short and long-read sequencing technologies to generate phased assemblies and characterize both inherited and de novo variation.
+  tags:
+    - resource
+
 - title: STRchive
   subtitle: Short Tandem Repeat Archive (pronouced "S-T-archive")
   group: featured

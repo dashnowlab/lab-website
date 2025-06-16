@@ -179,3 +179,9 @@
 
 - id: doi:10.1038/s41586-025-08922-2
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-08922-2/MediaObjects/41586_2025_8922_Fig3_HTML.png?as=webp
+
+- id: doi:10.1101/2025.06.09.658724
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/06/12/2025.06.09.658724/F1.large.jpg
+
+- id: doi:10.1016/j.gim.2025.101462
+  image: images/UDN-STR-paper.png
