@@ -1,6 +1,6 @@
 ---
 name: Macayla Weiner
-image: 
+image: images/macayla-weiner.jpg
 role: RA
 description: Research Assistant
 ---
