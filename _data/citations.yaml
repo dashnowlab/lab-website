@@ -1,5 +1,48 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.06.09.658724
+  title: The selective dynamics of interruptions at short tandem repeats
+  authors:
+  - Michael E. Goldberg
+  - Harriet Dashnow
+  - Kelley Harris
+  - Aaron R. Quinlan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-12'
+  link: https://doi.org/g9qcxs
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gim.2025.101462
+  title: A genome-wide approach for the discovery of novel repeat expansion disorders
+    in the Undiagnosed Diseases Network cohort
+  authors:
+  - Sarah Fazal
+  - Harriet Dashnow
+  - Maike F. Dohrn
+  - Jacquelyn Raposo
+  - Laurel Hiatt
+  - Matt C. Danzi
+  - Isaac R.L. Xu
+  - Camilo Toro
+  - David R. Adams
+  - Karen Usdin
+  - Bruce Hayward
+  - Shilpa Nadimpalli Kobren
+  - Shamil R. Sunyaev
+  - Rebecca C. Spillmann
+  - Vandana Shashi
+  - Adriana Rebelo
+  - Guney Bademci
+  - Mustafa Tekin
+  - Aaron R. Quinlan
+  - "Stephan Z\xFCchner"
+  publisher: Genetics in Medicine
+  date: '2025-05-01'
+  link: https://doi.org/g9qcxv
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-025-08922-2
   title: Human de novo mutation rates from a four-generation pedigree reference
   authors:
