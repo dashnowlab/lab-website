@@ -367,8 +367,8 @@
   - STRs
   - long reads
 - id: doi:10.1101/2024.11.02.621562
-  title: Polymorphic tandem repeats shape single-cell gene expression across the immune
-    landscape
+  title: Polymorphic tandem repeats influence cell type-specific gene expression across
+    the human immune landscape
   authors:
   - Hope A. Tanudisastro
   - Anna S.E. Cuomo
@@ -383,8 +383,8 @@
   - Michael Gray
   - Andre L.M. Reis
   - Jonathan Margoliash
-  - Edibe Nehir Kurtas
-  - Jeffrey Pullin
+  - Nehir E. Kurtas
+  - Jeffrey M. Pullin
   - Arthur S. Lee
   - Harrison Brand
   - Michael Harper
@@ -398,10 +398,14 @@
   - Anne Senabouth
   - Harriet Dashnow
   - Liam Fearnley
+  - Alejandro Martin-Trujillo
   - Egor Dolzhenko
   - Zhen Qiao
-  - Stuart Grieve
+  - Stuart M. Grieve
   - Tung Nguyen
+  - Eyal Ben-David
+  - Ling Chen
+  - Kyle Kai-How Farh
   - Michael Talkowski
   - Stephen I. Alexander
   - Owen M. Siggs
