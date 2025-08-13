@@ -26,7 +26,7 @@ nav:
 
 # Join us
 
-We are currently recruiting postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
+Applications are welcome for postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
 
 - **Postdoc** candidates please email Harriet Dashnow and include:
   - A summary of your career and research goals
@@ -34,7 +34,8 @@ We are currently recruiting postdocs, staff scientists and students. If you're p
   - A CV including referees
 - **Students** 
   - Current CU students: we are open to rotation requests from PhD and MD/PhD students.
-  - Future CU students should apply through one of the graduate programs described below. Please reach out if you are applying with the goal of joining our lab specifically.
+  - Future CU graduate research students should apply through one of the graduate programs described below. Please reach out if you are applying with the goal of joining our lab specifically.
+  - Part-time or summer positions may be available for students in coursework programs.
 
 For all other positions, please reach out to Harriet Dashnow to discuss options.
 

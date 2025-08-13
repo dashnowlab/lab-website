@@ -1,7 +1,7 @@
 ---
 ---
 
-We are **currently recruiting** postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
+Applications are welcome for postdocs, staff scientists and students. If you're passionate about rare disease genomics and computational method development, please get in touch!
 
 
 # Welcome to the Dashnow Lab
