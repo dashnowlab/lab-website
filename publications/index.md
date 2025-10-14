@@ -1,11 +1,11 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
@@ -15,6 +15,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ## Highlighted
 
 {% include citation.html lookup="doi:10.1186/s13073-025-01454-4" style="rich" %}
+
+{% include citation.html lookup="doi:10.1038/s41586-025-08922-2" style="rich" %}
 
 {% include section.html %}
 
