@@ -1,6 +1,6 @@
 ---
 name: Molly Helms
-image: 
+image: images/molly-helms.jpg
 role: undergrad
 description: PATH-GREU rotation scholar
 ---
