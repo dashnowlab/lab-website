@@ -1,7 +1,7 @@
 ---
 name: Brent Pedersen
-image: 
+image: images/brent-pedersen.jpeg
 role: programmer
-description: Contractor
+description: Computational Biologist (Contractor)
 ---
 
