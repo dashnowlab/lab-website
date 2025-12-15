@@ -608,19 +608,21 @@
   - VNTRs
 - id: doi:10.1101/2024.10.04.615514
   title: Defining a tandem repeat catalog and variation clusters for genome-wide analyses
-    and population databases
   authors:
   - Ben Weisburd
   - Egor Dolzhenko
   - Mark F. Bennett
   - Matt C. Danzi
+  - Isaac R. L. Xu
+  - Hope Tanudisastro
   - Adam English
   - Laurel Hiatt
-  - Hope Tanudisastro
+  - Tom Mokveld
+  - Guilherme De Sena Brandine
   - Nehir Edibe Kurtas
   - Helyaneh Ziaei Jam
   - Harrison Brand
-  - Fritz J. Sedlazeck
+  - "Stephan Z\xFCchner"
   - Melissa Gymrek
   - Harriet Dashnow
   - Michael A. Eberle
