@@ -23,7 +23,7 @@ nav:
 # Values
 
 - **Kindness**: We encourage a culture of empathy, respect, and support, where individuals actively contribute to a positive and inclusive environment.
-- **Diversity**: We are a team with diverse backgrounds, experiences and perspectives. We beleive that diversity fosters creativity, innovation, and fairness.
+- **Diversity**: We are a team with diverse backgrounds, experiences and perspectives. We believe that diversity fosters creativity, innovation, and fairness.
 - **Collaboration**: We partner with clinicians, researchers and industry partners to benefit patients, achieve common scientific goals, and address complex challenges.
 - **Open Science**: We believe that sharing knowledge openly accelerates scientific progress. We are dedicated to making our research data, software, and findings accessible to the global scientific community.
 
