@@ -1,6 +1,6 @@
 ---
 name: Gary Arner
-image: 
+image: images/gary-arner.jpg
 role: undergrad
 description: PATH-GREU rotation scholar
 group: alum
