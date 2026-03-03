@@ -24,7 +24,7 @@ patients with relevant expertise and to perform genomics at scale.
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -36,7 +36,7 @@ patients with relevant expertise and to perform genomics at scale.
 {%
   include feature.html
   image="images/TRGT.jpg"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}
