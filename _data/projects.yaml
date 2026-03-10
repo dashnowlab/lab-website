@@ -3,18 +3,29 @@
   group: featured
   image: https://millerlaboratory.com/images/1KGP-LRS-banner.png
   link: https://millerlaboratory.com/1KGP-LRS.html
-  description: We aim to perform long-read sequencing of all 3,202 1KGP samples. The goal of the Consortium is to identify a broader spectrum of genomic variation than is possible using short-read sequencing so we may further improve our understanding of human genetic disease. This dataset is already enabling us to better understand normal patterns of human structural variation, identify variation in difficult-to-map regions of the genome, and study repeat expansions and methylation patterns.
+  description: The Dashnow Lab is leading the tandem repeat working group within the 1kGP-LRSC. The goal of the Consortium is to identify a broader spectrum of genomic variation than is possible using short-read sequencing, including SVs, repeat expansions and methylation patterns.
   tags:
     - resource
 
-- title: Platinum Pedigree
-  subtitle: A comprehensive reference for human genetic variation in a four-generation, 28-member family (CEPH 1463)
+- title: Understanding somatic mosaicism at tandem repeat loci
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/10/09/2025.10.07.678589/F1.large.jpg
+  link: https://www.biorxiv.org/content/10.1101/2025.10.07.678589v1
+  tags:
+    - research
+    - mosaicism
+    - STRs
+
+- title: Discovering genetic determinants of de novo tandem repeat mutations
+  subtitle: Using long-read sequencing four-generation, 28-member family (CEPH 1463)
   group: featured
   image: https://www.biorxiv.org/content/biorxiv/early/2024/08/05/2024.08.05.606142/F1.large.jpg
   link: https://github.com/Platinum-Pedigree-Consortium
-  description: We employed five different short and long-read sequencing technologies to generate phased assemblies and characterize both inherited and de novo variation.
+  description: We employed multiple short and long-read sequencing technologies to generate phased assemblies and characterize both inherited and de novo variation.
   tags:
     - resource
+    - research
+    - de novo mutations
+    - tandem repeats
 
 - title: STRchive
   subtitle: Short Tandem Repeat Archive (pronouced "S-T-archive")
