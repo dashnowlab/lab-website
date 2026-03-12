@@ -1,5 +1,53 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.02.28.708646
+  title: A comprehensive assessment of tandem repeat genotyping methods for Nanopore
+    long-read genomes
+  authors:
+  - Elbay Aliyev
+  - Akshay Avvaru
+  - Wouter De Coster
+  - Garrison M. Arner
+  - Denis M. Nyaga
+  - Sophia B. Gibson
+  - Ben Weisburd
+  - Bida Gu
+  - Claudia Gonzaga-Jauregui
+  - Mark J.P. Chaisson
+  - Danny E. Miller
+  - Elizabeth Ostrowski
+  - Harriet Dashnow
+  publisher: openRxiv
+  date: '2026-03-03'
+  link: https://doi.org/hbrz5x
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.03.06.710071
+  title: A family portrait of the genomic factors shaping tandem repeat mutagenesis
+  authors:
+  - Thomas A. Sasani
+  - Michael E. Goldberg
+  - Akshay K. Avvaru
+  - Thomas J. Nicholas
+  - Deborah W. Neklason
+  - Egor Dolzhenko
+  - Tom Mokveld
+  - Katherine M. Munson
+  - Kendra Hoekzema
+  - Marcelo Ayllon
+  - Eli J. Kaufman
+  - David Porubsky
+  - Paul N. Valdmanis
+  - Evan E. Eichler
+  - Aaron R. Quinlan
+  - Harriet Dashnow
+  publisher: openRxiv
+  date: '2026-03-09'
+  link: https://doi.org/hbsbtg
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.10.07.678589
   title: Long-read sequencing reveals extensive <i>FMR1</i> somatic mosaicism in Fragile-X
     associated tremor/ataxia syndrome in human brain
