@@ -141,7 +141,7 @@
   - Harriet Dashnow
   - Kelley Harris
   - Aaron R. Quinlan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-06-12'
   link: https://doi.org/g9qcxs
   orcid: 0000-0001-8433-6270
@@ -673,19 +673,24 @@
   - Matt C. Danzi
   - Isaac R. L. Xu
   - Hope Tanudisastro
+  - Bida Gu
   - Adam English
   - Laurel Hiatt
   - Tom Mokveld
   - Guilherme De Sena Brandine
+  - Readman Chiu
   - Nehir Edibe Kurtas
   - Helyaneh Ziaei Jam
   - Harrison Brand
+  - Indhu Shree Rajan Babu
+  - Melanie Bahlo
+  - Mark JP Chaisson
   - "Stephan Z\xFCchner"
   - Melissa Gymrek
   - Harriet Dashnow
   - Michael A. Eberle
   - Heidi L. Rehm
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-10-05'
   link: https://doi.org/g75bj9
   orcid: 0000-0001-8433-6270
@@ -917,7 +922,7 @@
   - Aaron Quinlan
   - Evan Eichler
   - Michael A Eberle
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-10-03'
   link: https://doi.org/g75b3z
   orcid: 0000-0001-8433-6270
@@ -1004,8 +1009,8 @@
   - type: github
     link: bionitio-team/bionitio
 - id: doi:10.1101/601740
-  title: Pooled-parent exome sequencing to prioritise <i>de novo</i> variants in genetic
-    disease
+  title: "Pooled-parent exome sequencing to prioritise\n                  <i>de novo</i>\n\
+    \                  variants in genetic disease"
   authors:
   - Harriet Dashnow
   - Katrina M. Bell
@@ -1013,7 +1018,7 @@
   - Tiong Y. Tan
   - Susan M. White
   - Alicia Oshlack
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-04-07'
   link: https://doi.org/gkvmjw
   orcid: 0000-0001-8433-6270
