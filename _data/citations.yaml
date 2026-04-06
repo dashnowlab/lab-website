@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/genetics/iyag080
+  title: The selective dynamics of interruptions at short tandem repeats
+  authors:
+  - Michael E Goldberg
+  - Harriet Dashnow
+  - Kelley Harris
+  - Aaron R Quinlan
+  publisher: GENETICS
+  date: '2026-03-25'
+  link: https://doi.org/hbv4dc
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.02.28.708646
   title: A comprehensive assessment of tandem repeat genotyping methods for Nanopore
     long-read genomes
@@ -134,20 +147,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-08922-2/MediaObjects/41586_2025_8922_Fig3_HTML.png?as=webp
-- id: doi:10.1101/2025.06.09.658724
-  title: The selective dynamics of interruptions at short tandem repeats
-  authors:
-  - Michael E. Goldberg
-  - Harriet Dashnow
-  - Kelley Harris
-  - Aaron R. Quinlan
-  publisher: openRxiv
-  date: '2025-06-12'
-  link: https://doi.org/g9qcxs
-  orcid: 0000-0001-8433-6270
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/06/12/2025.06.09.658724/F1.large.jpg
 - id: doi:10.1016/j.gim.2025.101462
   title: A genome-wide approach for the discovery of novel repeat expansion disorders
     in the Undiagnosed Diseases Network cohort
@@ -1205,5 +1204,18 @@
   - Mentorship
   - Careers
   - Neurodiversity
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.06.09.658724
+  title: The selective dynamics of interruptions at short tandem repeats
+  authors:
+  - Michael E. Goldberg
+  - Harriet Dashnow
+  - Kelley Harris
+  - Aaron R. Quinlan
+  publisher: openRxiv
+  date: '2025-06-12'
+  link: https://doi.org/g9qcxs
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/06/12/2025.06.09.658724/F1.large.jpg
   plugin: sources.py
   file: sources.yaml
