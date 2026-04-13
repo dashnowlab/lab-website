@@ -72,8 +72,9 @@
   - tandem repeats
   - de novo mutations
 - id: doi:10.1101/2025.10.07.678589
-  title: Long-read sequencing reveals extensive <i>FMR1</i> somatic mosaicism in Fragile-X
-    associated tremor/ataxia syndrome in human brain
+  title: "Long-read sequencing reveals extensive\n                  <i>FMR1</i>\n\
+    \                  somatic mosaicism in Fragile-X associated tremor/ataxia syndrome\
+    \ in human brain"
   authors:
   - Anna Dischler
   - Akshay Avvaru
@@ -83,7 +84,7 @@
   - "Ver\xF3nica Mart\xEDnez Cerde\xF1o"
   - Harriet Dashnow
   - Caroline M. Dias
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-10-09'
   link: https://doi.org/g96jmx
   orcid: 0000-0001-8433-6270
@@ -603,7 +604,7 @@
   - Aaron R. Quinlan
   - Michael A. Eberle
   - Evan E. Eichler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-08-05'
   link: https://doi.org/gt6n6k
   orcid: 0000-0001-8433-6270
@@ -781,7 +782,7 @@
   - Jianan Fan
   - Oscar A. Dong
   - Albert Henry
-  - Peter Allen
+  - Peter C. Allen
   - Kristof Wing
   - Owen Tang
   - Michael Gray
@@ -794,6 +795,7 @@
   - Michael Harper
   - Katalina Bobowik
   - Michael Silk
+  - Amy Miniter
   - John Marshall
   - Vivian Bakiris
   - Bindu Swapna Madala
@@ -826,7 +828,7 @@
   - Katrina M. de Lange
   - Joseph E. Powell
   - Daniel G. MacArthur
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-11-04'
   link: https://doi.org/g8q5v2
   orcid: 0000-0001-8433-6270
@@ -873,7 +875,7 @@
   - C. Gilissen
   - A. Hoischen
   - M. A. Eberle
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-19'
   link: https://doi.org/gt48g2
   orcid: 0000-0001-8433-6270
@@ -1051,10 +1053,6 @@
     link: Oshlack/STRetch
 - id: isbn:9781491922941
   title: Elegant SciPy
-  authors:
-  - Juan Nunez-Iglesias
-  - "St\xE9fan van der Walt"
-  - Harriet Dashnow
   publisher: O'Reilly Media, Inc.
   date: '2017-11-08'
   link: https://github.com/elegant-scipy/elegant-scipy
@@ -1062,6 +1060,10 @@
   plugin: sources.py
   file: sources.yaml
   image: images/elegantscipy-cover.jpg
+  authors:
+  - Juan Nunez-Iglesias
+  - "St\xE9fan van der Walt"
+  - Harriet Dashnow
 - id: doi:10.1038/ejhg.2017.123
   title: A clinically driven variant prioritization framework outperforms purely computational
     approaches for the diagnostic analysis of singleton WES data
