@@ -1,3 +1,6 @@
+- id: doi:10.1093/genetics/iyag080
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/06/12/2025.06.09.658724/F1.large.jpg
+
 - id: doi:10.64898/2026.03.06.710071
   image: https://www.biorxiv.org/content/biorxiv/early/2026/03/09/2026.03.06.710071/F1.large.jpg
   tags:
@@ -163,11 +166,11 @@
   - VNTRs
   - mutation rates
 
-- id: doi:10.1101/2024.10.04.615514
+- id:doi:https://doi.org/10.1016/j.ajhg.2026.03.020
   image: https://www.biorxiv.org/content/biorxiv/early/2024/10/05/2024.10.04.615514/F2.large.jpg
   buttons:
   - type: paper
-    link: https://www.biorxiv.org/content/10.1101/2024.10.04.615514v1
+    link: https://authors.elsevier.com/c/1m~6CgeXHn5V
   tags:
   - long reads
   - short reads
@@ -193,9 +196,6 @@
 
 - id: doi:10.1038/s41586-025-08922-2
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-08922-2/MediaObjects/41586_2025_8922_Fig3_HTML.png?as=webp
-
-- id: doi:10.1101/2025.06.09.658724
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/06/12/2025.06.09.658724/F1.large.jpg
 
 - id: doi:10.1016/j.gim.2025.101462
   image: images/UDN-STR-paper.png
