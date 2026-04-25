@@ -978,6 +978,10 @@
     link: Oshlack/STRetch
 - id: isbn:9781491922941
   title: Elegant SciPy
+  authors:
+  - Juan Nunez-Iglesias
+  - "St\xE9fan van der Walt"
+  - Harriet Dashnow
   publisher: O'Reilly Media, Inc.
   date: '2017-11-08'
   link: https://github.com/elegant-scipy/elegant-scipy
@@ -985,10 +989,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/elegantscipy-cover.jpg
-  authors:
-  - Juan Nunez-Iglesias
-  - "St\xE9fan van der Walt"
-  - Harriet Dashnow
 - id: doi:10.1038/ejhg.2017.123
   title: A clinically driven variant prioritization framework outperforms purely computational
     approaches for the diagnostic analysis of singleton WES data
