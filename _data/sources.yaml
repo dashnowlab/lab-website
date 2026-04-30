@@ -1,3 +1,11 @@
+- id: doi:https://doi.org/10.1016/j.ajhg.2026.03.020
+  title: Defining a tandem repeat catalog and variation clusters for genome-wide analyses and population databases
+  image: https://www.cell.com/cms/10.1016/j.ajhg.2026.03.020/asset/af1a51ec-71f0-4d76-8488-d6238b34ce7d/main.assets/gr2_lrg.jpg
+
+- id: doi:10.1093/genetics/iyag080
+  title: The selective dynamics of interruptions at short tandem repeats
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/06/12/2025.06.09.658724/F1.large.jpg
+
 - id: doi:10.64898/2026.03.06.710071
   image: https://www.biorxiv.org/content/biorxiv/early/2026/03/09/2026.03.06.710071/F1.large.jpg
   tags:
