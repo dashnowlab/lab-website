@@ -1,6 +1,6 @@
 ---
 name: Gabriel Zinser
-image: 
+image: images/gabriel_zinser.jpg
 role: RA
 description: Research Assistant
 ---
