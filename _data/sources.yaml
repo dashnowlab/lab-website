@@ -220,22 +220,6 @@
   - STRs
   - VNTRs
 
-- id: doi:10.1101/2024.08.05.606142
-  title: 'A familial, telomere-to-telomere reference for human <i>de novo</i> mutation and recombination from a four-generation pedigree'
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/08/05/2024.08.05.606142/F1.large.jpg
-  date: '2024-08-05'
-  buttons:
-  - type: github
-    link: Platinum-Pedigree-Consortium
-  - type: paper
-    link: https://www.biorxiv.org/content/10.1101/2024.08.05.606142v1
-  tags:
-  - long reads
-  - short reads
-  - STRs
-  - VNTRs
-  - mutation rates
-
 - id: doi:10.1101/2024.10.04.615514
   image: https://www.biorxiv.org/content/biorxiv/early/2024/10/05/2024.10.04.615514/F2.large.jpg
   buttons:
@@ -245,8 +229,9 @@
   - long reads
   - short reads
 
-- id: doi:10.1101/2024.10.02.616333
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/03/2024.10.02.616333/F1.large.jpg
+- id: doi:10.1038/s41592-025-02750-y
+  title: 'The Platinum Pedigree: a long-read benchmark for genetic variants'
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-025-02750-y/MediaObjects/41592_2025_2750_Fig1_HTML.png?as=webp
   tags:
   - genome annotation
   - STRs
@@ -265,7 +250,17 @@
   - review
 
 - id: doi:10.1038/s41586-025-08922-2
+  title: Human de novo mutation rates from a four-generation pedigree reference
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-08922-2/MediaObjects/41586_2025_8922_Fig3_HTML.png?as=webp
+  buttons:
+  - type: github
+    link: Platinum-Pedigree-Consortium
+  tags:
+  - long reads
+  - short reads
+  - STRs
+  - VNTRs
+  - mutation rates
 
 - id: doi:10.1101/2025.06.09.658724
   image: https://www.biorxiv.org/content/biorxiv/early/2025/06/12/2025.06.09.658724/F1.large.jpg
