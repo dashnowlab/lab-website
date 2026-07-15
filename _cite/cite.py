@@ -140,13 +140,10 @@ for index, source in enumerate(sources):
 
         # if Manubot cannot cite source
         except Exception as e:
-            known_errors = ['isbn:9781491922941']
-            if _id in known_errors:
+            # if regular source (id entered by user), the manually-provided
+            # fields (title, authors, date, etc.) are still usable, so just warn
+            if get_safe(source, "plugin", "") == "sources.py":
                 log(e, 2, "WARNING")
-            # if regular source (id entered by user), throw error
-            elif get_safe(source, "plugin", "") == "sources.py":
-                log(e, 3, "ERROR")
-                error = True
             # otherwise, if from metasource (id retrieved from some third-party API), just warn
             else:
                 log(e, 3, "WARNING")
