@@ -8,6 +8,7 @@ links:
   home-page: https://www.vincentrubinetti.com/
   github: vincerubinetti
   twitter: vincerubinetti
+year_start: 2024
 ---
 
 Vince is a staff frontend developer. He designed and developed [STRchive](https://strchive.org/).

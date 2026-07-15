@@ -15,7 +15,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Past Lab Members
 
-{% include list.html data="members" component="portrait" filters="group: alum" %}
+{% include list.html data="members" component="portrait" filters="group: alum" sort="year_end,year_start" order="desc,asc" %}
 
 
 {% include section.html %}

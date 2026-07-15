@@ -3,6 +3,7 @@ name: Elbay Aliyev
 image: images/elbay-aliyev.jpg
 role: programmer
 description: Senior Data Scientist
+year_start: 2025
 ---
 
 Elbay Aliyev is a bioinformatician and software engineer with nearly 17 years of experience. He holds a master’s degree in Computer Science from Baku State University, where he focused on the analysis of encryption algorithms, including A5, Geffe, RC4, and SEAL.

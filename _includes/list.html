@@ -5,6 +5,10 @@
   | data_filter: include.filters
 %}
 
+{% if include.sort %}
+  {% assign data = data | multi_sort: include.sort, include.order %}
+{% endif %}
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
@@ -14,7 +18,7 @@
 {% for year in years %}
   {% assign data = year.items %}
 
-  {% if years.size > 1 %}
+  {% if years.size > 1 and include.sort == nil %}
     {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
     {% assign data = data | sort: "date" | reverse %}
   {% endif %}
@@ -53,6 +57,8 @@
       type=d.type
       url=d.url
       width=d.width
+      year_start=d.year_start
+      year_end=d.year_end
     %}
   {% endfor %}
 {% endfor %}

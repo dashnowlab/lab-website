@@ -2,8 +2,10 @@
 name: Molly Helms
 image: images/molly-helms.jpg
 role: undergrad
-description: PATH-GREU rotation scholar (2025)
+description: PATH-GREU rotation scholar
 group: alum
+year_start: 2025
+year_end: 2025
 ---
 
 Molly Helms is an undergraduate student at Metropolitan State University of Denver where she is pursuing her Bachelor of Science in Biochemistry. She is rotating in the Dashnow lab as part of the PATH-GREU program. Her project is centered around curating HPO terms for diseases listed within the STRchive.

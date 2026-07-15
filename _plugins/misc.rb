@@ -36,6 +36,21 @@ module Jekyll
       return data
     end
 
+    # sort a list of hashes by multiple numeric fields, e.g. fields="year_end,year_start" orders="desc,asc"
+    def multi_sort(data, fields, orders = "")
+      if not data.is_a?(Array) or not fields.is_a?(String)
+        return data
+      end
+      field_list = array_filter(fields.split(","))
+      order_list = array_filter(orders.to_s.split(","))
+      return data.sort_by do |d|
+        field_list.each_with_index.map do |field, i|
+          value = (d[field] || 0).to_f
+          order_list[i] == "desc" ? -value : value
+        end
+      end
+    end
+
     # from css text, find font family definitions and construct google font url
     def google_fonts(css)
       names = regex_scan(css, '--\S*:\s*"(.*)",?.*;', false, true).sort.uniq

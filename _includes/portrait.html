@@ -36,6 +36,16 @@
             <span>{{ member.description | default: type.description }}</span>
           </span>
         {% endif %}
+
+        {% if member.year_start %}
+          <span class="portrait-year">
+            {% if member.year_end and member.year_end != member.year_start %}
+              {{ member.year_start }}&ndash;{{ member.year_end }}
+            {% else %}
+              {{ member.year_start }}
+            {% endif %}
+          </span>
+        {% endif %}
       </span>
     {% endif %}
   </a>
