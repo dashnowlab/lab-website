@@ -29,6 +29,34 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2025/06/12/2025.06.09.658724/F1.large.jpg
+- id: doi:10.64898/2026.04.08.717199
+  title: A computational model for quantifying instability of tandem repeats across
+    the genome
+  authors:
+  - Egor Dolzhenko
+  - Adam English
+  - Tom Mokveld
+  - Guilherme de Sena Brandine
+  - Zev Kronenberg
+  - Galen Wright
+  - "Britt Dr\xF6gem\xF6ller"
+  - William J. Rowell
+  - Aaron M. Wenger
+  - Xiao Chen
+  - Mark F. Bennett
+  - Ben Weisburd
+  - Graham S. Erwin
+  - Peng Jin
+  - David Nelson
+  - Harriet Dashnow
+  - Fritz J. Sedlazeck
+  - Michael A. Eberle
+  publisher: openRxiv
+  date: '2026-04-10'
+  link: https://doi.org/hcbj2x
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.02.28.708646
   title: A comprehensive assessment of tandem repeat genotyping methods for Nanopore
     long-read genomes
