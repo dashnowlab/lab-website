@@ -1,3 +1,63 @@
+- id: accepted
+  title: Multiomic approaches identify a rare CCG repeat expansion in BCLAF3 in neurodevelopmental disorders
+  publisher: Genome Medicine
+  date: '2026-07-15'
+  authors:
+  - Christy LaFlamme
+  - Chris Clarkson
+  - Kristina Ibañez
+  - Jin-Yuan Wang
+  - Soham Sengupta
+  - Jenny Lord
+  - Virginia Valentine
+  - Emily Bonkowski
+  - Edith Almanza Fuerte
+  - Athena Olszewski
+  - Sourav Ghosh
+  - Bharati Jadhav
+  - Taralynn Mack
+  - Jiadong Lin
+  - Sophia Gibson
+  - Johanna van Hagen
+  - Marielle Alders
+  - Alexandra Martin-Geary
+  - Bida Gu
+  - Mira Kharbanda
+  - Siddharth Banka
+  - Helen Stuart
+  - Andrew Webster
+  - Akimoto Hosokawa
+  - Harriet Dashnow
+  - Richa Bajpai
+  - Shondra Pruett-Miller
+  - Mark Chaisson
+  - Danny Miller
+  - Nicola Whiffin
+  - Evan Eichler
+  - Sanjay Sisodiya
+  - Henry Houlden
+  - Andrew Sharp
+  - Bekim Sadikovic
+  - Marc Valentine
+  - Lynette Sadleir
+  - Arianna Tucci
+  - Heather Mefford
+
+- id: doi:10.64898/2026.07.04.26357279
+  title: 'criTRia: A Classification System and Evidence Criteria for Tandem Repeat
+    Locus-Disease Relationships'
+  image: https://www.medrxiv.org/content/medrxiv/early/2026/07/06/2026.07.04.26357279/F2.large.jpg
+
+- id: doi:10.64898/2026.04.08.717199
+  title: A computational model for quantifying instability of tandem repeats across
+    the genome
+  image: https://www.biorxiv.org/content/biorxiv/early/2026/04/12/2026.04.08.717199/F1.large.jpg
+
+- id: doi:10.1101/2025.05.13.653434
+  title: 'ATaRVa: Analysis of Tandem Repeat Variation from Long Read Sequencing data'
+  image: https://raw.githubusercontent.com/SowpatiLab/ATaRVa/refs/heads/master/lib/atrv_logo.png
+  date: '2026-07-14'
+
 - id: doi:10.64898/2026.04.30.26352103
   title: Genome-wide detection and clinical prioritization of tandem repeat outliers
     using long-read sequencing

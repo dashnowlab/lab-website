@@ -2,8 +2,9 @@
 name: Macayla Weiner
 image: images/macayla-weiner.jpg
 role: RA
-description: Research Assistant
+description: Research Assistant (2025-2026)
+group: alum
 ---
 
-Macayla Weiner is an undergraduate student at the University of Colorado Boulder, pursuing degrees in Neuroscience, Psychology, and Molecular, Cellular, and Developmental Biology. She is on a pre-medical track, hoping to become a physician-scientist, with an interest in the genetic bases of neurodegenerative disorders.
+Macayla Weiner completed her undergraduate degree at the University of Colorado Boulder in 2026 in Neuroscience, Psychology, and Molecular, Cellular, and Developmental Biology. Her career interest is in the genetic bases of neurodegenerative disorders.
 
