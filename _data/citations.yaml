@@ -209,6 +209,54 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2025/10/09/2025.10.07.678589/F1.large.jpg
+- id: doi:10.1038/s41592-025-02750-y
+  title: 'The Platinum Pedigree: a long-read benchmark for genetic variants'
+  authors:
+  - Zev Kronenberg
+  - Cillian Nolan
+  - David Porubsky
+  - Tom Mokveld
+  - William J. Rowell
+  - Sangjin Lee
+  - Egor Dolzhenko
+  - Pi-Chuan Chang
+  - James M. Holt
+  - Christopher T. Saunders
+  - Nathan D. Olson
+  - Cody J. Steely
+  - Sean McGee
+  - Andrea Guarracino
+  - Nidhi Koundinya
+  - William T. Harvey
+  - W. Scott Watkins
+  - Katherine M. Munson
+  - Kendra Hoekzema
+  - Khi Pin Chua
+  - Xiao Chen
+  - Cairbre Fanslow
+  - Christine Lambert
+  - Harriet Dashnow
+  - Erik Garrison
+  - Joshua D. Smith
+  - Peter M. Lansdorp
+  - Justin M. Zook
+  - Andrew Carroll
+  - Lynn B. Jorde
+  - Deborah W. Neklason
+  - Aaron R. Quinlan
+  - Evan E. Eichler
+  - Michael A. Eberle
+  publisher: Nature Methods
+  date: '2025-08-01'
+  link: https://doi.org/g9v7br
+  orcid: 0000-0001-8433-6270
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-025-02750-y/MediaObjects/41592_2025_2750_Fig1_HTML.png?as=webp
+  tags:
+  - genome annotation
+  - STRs
+  - VNTRs
 - id: doi:10.1038/s41586-025-08922-2
   title: Human de novo mutation rates from a four-generation pedigree reference
   authors:
@@ -925,46 +973,6 @@
   - long reads
   - STRs
   - VNTRs
-- id: doi:10.1101/2024.10.02.616333
-  title: 'The Platinum Pedigree: A long-read benchmark for genetic variants'
-  authors:
-  - Zev Kronenberg
-  - Cillian Nolan
-  - Tom Mokveld
-  - William J Rowell
-  - Sangjin Lee
-  - Egor Dolzhenko
-  - Pi-Chuan Chang
-  - James Matthew Holt
-  - Christopher T Saunders
-  - Nathanael D. Olson
-  - Sean McGee
-  - Andrea Guarracino
-  - Nidhi Koundinya
-  - William T Harvey
-  - W. Scott Watkins
-  - Katherine M Munson
-  - Kendra Hoekzema
-  - Khi Pin Chua
-  - Cairbre Fanslow
-  - Christine Lambert
-  - Harriet Dashnow
-  - Erik Garrison
-  - Josh Smith
-  - Peter Lansdorp
-  - Justin M Zook
-  - Andrew Carroll
-  - Lynn B. Jorde
-  - Deborah W Neklason
-  - Aaron Quinlan
-  - Evan Eichler
-  - Michael A Eberle
-  publisher: openRxiv
-  date: '2024-10-03'
-  link: https://doi.org/g75b3z
-  orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/s13059-022-02826-4
   title: 'STRling: a k-mer counting approach that detects short tandem repeat expansions
     at known and novel loci'
@@ -1322,53 +1330,6 @@
   tags:
   - long reads
   - short reads
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41592-025-02750-y
-  title: 'The Platinum Pedigree: a long-read benchmark for genetic variants'
-  authors:
-  - Zev Kronenberg
-  - Cillian Nolan
-  - David Porubsky
-  - Tom Mokveld
-  - William J. Rowell
-  - Sangjin Lee
-  - Egor Dolzhenko
-  - Pi-Chuan Chang
-  - James M. Holt
-  - Christopher T. Saunders
-  - Nathan D. Olson
-  - Cody J. Steely
-  - Sean McGee
-  - Andrea Guarracino
-  - Nidhi Koundinya
-  - William T. Harvey
-  - W. Scott Watkins
-  - Katherine M. Munson
-  - Kendra Hoekzema
-  - Khi Pin Chua
-  - Xiao Chen
-  - Cairbre Fanslow
-  - Christine Lambert
-  - Harriet Dashnow
-  - Erik Garrison
-  - Joshua D. Smith
-  - Peter M. Lansdorp
-  - Justin M. Zook
-  - Andrew Carroll
-  - Lynn B. Jorde
-  - Deborah W. Neklason
-  - Aaron R. Quinlan
-  - Evan E. Eichler
-  - Michael A. Eberle
-  publisher: Nature Methods
-  date: '2025-08-01'
-  link: https://doi.org/g9v7br
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-025-02750-y/MediaObjects/41592_2025_2750_Fig1_HTML.png?as=webp
-  tags:
-  - genome annotation
-  - STRs
-  - VNTRs
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.06.09.658724
