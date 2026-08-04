@@ -4,16 +4,18 @@
   image: https://millerlaboratory.com/images/1KGP-LRS-banner.png
   link: https://millerlaboratory.com/1KGP-LRS.html
   description: The Dashnow Lab is leading the tandem repeat working group within the 1kGP-LRSC. The goal of the Consortium is to identify a broader spectrum of genomic variation than is possible using short-read sequencing, including SVs, repeat expansions and methylation patterns.
+  buttons:
+    - type: paper
+      text: Consortium Paper (first 100)
+      link: https://doi.org/g7np5q
+    - type: paper
+      text: Outliers
+      link: https://doi.org/10.64898/2026.04.30.26352103
+    - type: paper
+      text: Long-read TR genotyper benchmark
+      link: https://doi.org/hcdmp4
   tags:
     - resource
-
-- title: Understanding somatic mosaicism at tandem repeat loci
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/10/09/2025.10.07.678589/F1.large.jpg
-  link: https://www.biorxiv.org/content/10.1101/2025.10.07.678589v1
-  tags:
-    - research
-    - mosaicism
-    - STRs
 
 - title: Discovering genetic determinants of de novo tandem repeat mutations
   subtitle: Using long-read sequencing four-generation, 28-member family (CEPH 1463)
@@ -21,11 +23,39 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2024/08/05/2024.08.05.606142/F1.large.jpg
   link: https://github.com/Platinum-Pedigree-Consortium
   description: We employed multiple short and long-read sequencing technologies to generate phased assemblies and characterize both inherited and de novo variation.
+  buttons:
+    - type: paper
+      text: Mutation Rates Paper
+      link: https://doi.org/g9gfcn
+    - type: paper
+      text: De novo TR Paper
+      link: https://doi.org/10.64898/2026.03.06.710071
+    - type: paper
+      text: TRGT-denovo Paper
+      link: https://doi.org/10.1101/2024.07.16.600745
+    - type: paper
+      text: Benchmark Paper
+      link: https://doi.org/g9v7br
   tags:
     - resource
     - research
     - de novo mutations
     - tandem repeats
+
+- title: Understanding somatic mosaicism at tandem repeat loci
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/10/09/2025.10.07.678589/F1.large.jpg
+  link: https://www.biorxiv.org/content/10.1101/2025.10.07.678589v1
+  buttons:
+    - type: paper
+      text: FMR1 brain mosaicism paper
+      link: https://doi.org/g96jmx
+    - type: paper
+      text: Review
+      link: https://doi.org/g883tw
+  tags:
+    - research
+    - mosaicism
+    - STRs
 
 - title: STRchive
   subtitle: Short Tandem Repeat Archive (pronouced "S-T-archive")
@@ -34,13 +64,36 @@
   link: http://strchive.org/
   description: A database of STRs associated with disease in humans.
   repo: hdashnow/STRchive
+  buttons:
+    - type: paper
+      link: https://doi.org/g9gwv2
   tags:
     - resource
     - database
 
+- title: criTRia
+  subtitle: A Classification System and Evidence Criteria for Tandem Repeat Locus-Disease Relationships
+  image: https://www.medrxiv.org/content/medrxiv/early/2026/07/06/2026.07.04.26357279/F2.large.jpg
+  link: https://doi.org/hcbhmt
+  description: A framework for systematically classifying and curating the strength of evidence linking tandem repeat loci to disease.
+  tags:
+    - research
+    - classification
+    - tandem repeats
+
+- title: ATaRVa
+  subtitle: A technology-agnostic tandem repeat genotyper for long read sequencing data (led by the Sowpati Lab)
+  group: featured
+  image: https://raw.githubusercontent.com/SowpatiLab/ATaRVa/refs/heads/master/lib/atrv_logo.png
+  link: https://github.com/SowpatiLab/ATaRVa
+  buttons:
+    - type: paper
+      link: https://doi.org/hcbhmw
+  tags:
+    - software
+
 - title: TRGT
   subtitle: Tandem Repeat Genotyping Tool (pronounced "target")
-  group: featured
   image: images/TRGT.jpg
   link: https://github.com/PacificBiosciences/trgt
   description: TRGT genotypes tandem repeats from PacBio HiFi long read data and visualizes them with TRVZ.
@@ -55,6 +108,9 @@
   link: https://strling.readthedocs.io/en/latest/
   description: STRling can detect novel expansions where there is no STR in the reference genome, or an alternate motif.
   repo: quinlan-lab/STRling
+  buttons:
+    - type: paper
+      link: https://doi.org/gsrsm2
   tags:
     - software
     - publication
@@ -65,6 +121,9 @@
   link: https://github.com/Oshlack/STRetch
   description: STRling can detect novel expansions where there is no STR in the reference genome, or an alternate motif.
   repo: Oshlack/STRetch
+  buttons:
+    - type: paper
+      link: https://doi.org/gd49p5
   tags:
     - software
     - publication
