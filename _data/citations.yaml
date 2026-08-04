@@ -1,5 +1,73 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1186/s13059-026-04210-y
+  title: A comprehensive assessment of tandem repeat genotyping methods for Nanopore
+    long-read genomes
+  authors:
+  - Elbay Aliyev
+  - Akshay Avvaru
+  - Wouter De Coster
+  - Garrison M. Arner
+  - Denis M. Nyaga
+  - Sophia B. Gibson
+  - Ben Weisburd
+  - Bida Gu
+  - Claudia Gonzaga-Jauregui
+  - Jonas A. Gustafson
+  - Joy Goffena
+  - Wayne E. Clarke
+  - Evan E. Eichler
+  - Theodore M. Nelson
+  - Anthony A. Snead
+  - Xinxia Peng
+  - Marcelo Ayllon
+  - Nikhita Damaraju
+  - Miranda PG Zalusky
+  - Kendra Hoekzema
+  - David Twesigomwe
+  - Lei Yang
+  - Phillip A. Richmond
+  - Nathan D. Olson
+  - Andrea Guarracino
+  - Qiuhui Li
+  - Angela L. Miller
+  - Zachary B. Anderson
+  - Sophie HR Storz
+  - Anna O. Basile
+  - "Andr\xE9 Corvelo"
+  - Catherine E. Reeves
+  - Adrienne Helland
+  - Rajeeva Lochan Musunuri
+  - Mahler Revsine
+  - Karynne E. Patterson
+  - Cate R. Paschal
+  - Christina Zakarian
+  - Sara Goodwin
+  - Tanner D. Jensen
+  - Esther Robb
+  - W. Richard McCombie
+  - Fritz J. Sedlazeck
+  - Justin M. Zook
+  - Stephen B. Montgomery
+  - Erik Garrison
+  - Mikhail Kolmogorov
+  - Michael C. Schatz
+  - Richard N. McLaughlin
+  - Michael C. Zody
+  - Matthew Loose
+  - Miten Jain
+  - Rob Patro
+  - Caitlin N. Jacques
+  - Mark J. P. Chaisson
+  - Danny E. Miller
+  - Elizabeth Ostrowski
+  - Harriet Dashnow
+  publisher: Genome Biology
+  date: '2026-08-04'
+  link: https://doi.org/hcdmp4
+  orcid: 0000-0001-8433-6270
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13073-026-01729-4
   title: Multiomic approaches identify a rare CCG repeat expansion in BCLAF3 in neurodevelopmental
     disorders
@@ -108,34 +176,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2026/04/12/2026.04.08.717199/F1.large.jpg
-- id: doi:10.64898/2026.02.28.708646
-  title: A comprehensive assessment of tandem repeat genotyping methods for Nanopore
-    long-read genomes
-  authors:
-  - Elbay Aliyev
-  - Akshay Avvaru
-  - Wouter De Coster
-  - Garrison M. Arner
-  - Denis M. Nyaga
-  - Sophia B. Gibson
-  - Ben Weisburd
-  - Bida Gu
-  - Claudia Gonzaga-Jauregui
-  - Mark J.P. Chaisson
-  - Danny E. Miller
-  - Elizabeth Ostrowski
-  - Harriet Dashnow
-  publisher: openRxiv
-  date: '2026-03-03'
-  link: https://doi.org/hbrz5x
-  orcid: 0000-0001-8433-6270
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2026/03/03/2026.02.28.708646/F7.large.jpg
-  tags:
-  - long reads
-  - tandem repeats
-  - benchmarking
 - id: doi:10.64898/2026.03.06.710071
   title: A family portrait of the genomic factors shaping tandem repeat mutagenesis
   authors:
@@ -1141,10 +1181,6 @@
     link: Oshlack/STRetch
 - id: isbn:9781491922941
   title: Elegant SciPy
-  authors:
-  - Juan Nunez-Iglesias
-  - "St\xE9fan van der Walt"
-  - Harriet Dashnow
   publisher: O'Reilly Media, Inc.
   date: '2017-11-08'
   link: https://github.com/elegant-scipy/elegant-scipy
@@ -1152,6 +1188,10 @@
   plugin: sources.py
   file: sources.yaml
   image: images/elegantscipy-cover.jpg
+  authors:
+  - Juan Nunez-Iglesias
+  - "St\xE9fan van der Walt"
+  - Harriet Dashnow
 - id: doi:10.1038/ejhg.2017.123
   title: A clinically driven variant prioritization framework outperforms purely computational
     approaches for the diagnostic analysis of singleton WES data
@@ -1278,6 +1318,33 @@
   plugin: sources.py
   file: sources.yaml
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0044974.g001
+- id: doi:10.64898/2026.02.28.708646
+  title: A comprehensive assessment of tandem repeat genotyping methods for Nanopore
+    long-read genomes
+  authors:
+  - Elbay Aliyev
+  - Akshay Avvaru
+  - Wouter De Coster
+  - Garrison M. Arner
+  - Denis M. Nyaga
+  - Sophia B. Gibson
+  - Ben Weisburd
+  - Bida Gu
+  - Claudia Gonzaga-Jauregui
+  - Mark J.P. Chaisson
+  - Danny E. Miller
+  - Elizabeth Ostrowski
+  - Harriet Dashnow
+  publisher: openRxiv
+  date: '2026-03-03'
+  link: https://doi.org/hbrz5x
+  image: https://www.biorxiv.org/content/biorxiv/early/2026/03/03/2026.02.28.708646/F7.large.jpg
+  tags:
+  - long reads
+  - tandem repeats
+  - benchmarking
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.35542/osf.io/pys86
   title: 'Spotted with AuDHD: Seeing Yourself in a Mentor Who Sees You.'
   authors:
