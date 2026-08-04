@@ -48,4 +48,15 @@
   font-style: italic;
 }
 
+.card-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.card-buttons .button {
+  margin: 0;
+}
+
 /*# sourceMappingURL=card.css.map */
