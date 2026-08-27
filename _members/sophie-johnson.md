@@ -1,8 +1,8 @@
 ---
 name: Sophie Johnson
-image: images/Sophie-Johnson.jpg
-description: Rotation Student
-role: rotation student
+image: images/sophie-johnson.jpg
+description: PATH-GDS scholar
+role: grad
 year_start: 2026
 ---
 
