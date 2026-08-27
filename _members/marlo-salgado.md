@@ -1,6 +1,6 @@
 ---
 name: Marlo Salgado
-image: <img width="3024" height="4032" alt="marlo-GREU-headshot" src="https://github.com/user-attachments/assets/405438e3-b980-4d05-8eab-8622eb14c42f" />
+image: images/marlo-salgado.jpeg
 role: undergrad
 description: PATH-GREU scholar
 year_start: 2026
