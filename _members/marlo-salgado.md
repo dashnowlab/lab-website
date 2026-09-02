@@ -2,7 +2,7 @@
 name: Marlo Salgado
 image: images/marlo-salgado.jpeg
 role: undergrad
-description: PATH-GREU scholar
+description: PATH-GREU rotation scholar
 year_start: 2026
 ---
 
