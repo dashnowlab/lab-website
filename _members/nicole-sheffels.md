@@ -2,7 +2,7 @@
 name: Nicole Sheffels
 image: images/nicole-sheffels.jpg
 description: PhD rotation student
-role: grad
+role: phd
 year_start: 2026
 ---
 

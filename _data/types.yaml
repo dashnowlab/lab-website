@@ -18,6 +18,10 @@ mdphd:
   icon: fa-solid fa-graduation-cap
   description: MD/PhD Student
 
+masters:
+  icon: fa-solid fa-user-graduate
+  description: Master's Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
