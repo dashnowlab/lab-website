@@ -85,14 +85,14 @@
   subtitle: A technology-agnostic tandem repeat genotyper for long read sequencing data (led by the Sowpati Lab)
   group: featured
   image: https://raw.githubusercontent.com/SowpatiLab/ATaRVa/refs/heads/master/lib/atrv_logo.png
-  link: https://github.com/avvaruakshay/ATaRVa
+  link: https://github.com/dashnowlab/ATaRVa
 
   buttons:
     - type: paper
       link: https://doi.org/hcbhmw
     - type: software
       text: Latest development version
-      link: https://github.com/avvaruakshay/ATaRVa
+      link: https://github.com/dashnowlab/ATaRVa
     - type: software
       text: Published version
       link: https://github.com/SowpatiLab/ATaRVa
