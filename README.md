@@ -8,6 +8,9 @@ Visit **[dashnowlab.org](http://dashnowlab.org)** 🚀
 
 `./.docker/run.sh` from the local repo root directory
 
+For a preview of an automatically generated citation-update pull request,
+close and reopen it without merging.
+
 [**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
 
 Generated with [**Lab Website Template**](https://github.com/greenelab/lab-website-template)

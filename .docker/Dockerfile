@@ -1,5 +1,5 @@
 # start with official ruby docker image as base
-FROM ruby:3.1.2
+FROM ruby:3.4-bookworm
 
 # set working directory within container
 WORKDIR /usr/src/app
@@ -12,8 +12,10 @@ RUN VERSION=$(grep -A 1 'BUNDLED WITH' Gemfile.lock | tail -n 1 | xargs); \
     gem install bundler --version ${VERSION} && \
     bundle _${VERSION}_ install
 
-# install python
-RUN apt update && apt install -y python3 python3-pip
+# install python and create an isolated environment for the cite process
+RUN apt-get update && apt-get install -y python3 python3-venv && \
+    python3 -m venv /opt/cite-venv
+ENV PATH="/opt/cite-venv/bin:${PATH}"
 
 # install python packages
 RUN python3 -m pip install --no-cache-dir --upgrade --requirement requirements.txt
