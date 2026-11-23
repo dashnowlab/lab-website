@@ -35,9 +35,13 @@ def main(entry):
     # go through response structure and pull out ids e.g. doi:1234/56789
     for work in response:
         # get list of ids
-        ids = get_safe(work, "external-ids.external-id", [])
+        # check work summaries first (ORCID lists the preferred version first,
+        # e.g. the published paper over its preprint in a merged group), then
+        # fall back to group-level ids
+        ids = []
         for summary in get_safe(work, "work-summary", []):
             ids = ids + get_safe(summary, "external-ids.external-id", [])
+        ids = ids + get_safe(work, "external-ids.external-id", [])
 
         # prefer doi id type, or fallback to first id
         _id = next(

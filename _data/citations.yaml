@@ -65,8 +65,17 @@
   date: '2026-10-28'
   link: https://doi.org/hctrpt
   orcid: 0000-0001-8433-6270
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10438-2/MediaObjects/41586_2026_10438_Fig1_HTML.png
+  buttons:
+  - type: paper
+    link: https://doi.org/10.1038/s41586-026-10438-2
+  - type: preprint
+    link: https://doi.org/10.1101/2024.11.02.621562
+  tags:
+  - STRs
+  - short reads
 - id: doi:10.1186/s13059-026-04210-y
   title: A comprehensive assessment of tandem repeat genotyping methods for Nanopore
   authors:
@@ -1012,74 +1021,6 @@
   tags:
   - STRs
   - long reads
-- id: doi:10.1101/2024.11.02.621562
-  title: Tandem repeat variation shapes immune cell type-specific gene expression
-  authors:
-  - Hope A. Tanudisastro
-  - Anna S.E. Cuomo
-  - Ben Weisburd
-  - Matthew Welland
-  - Eleanor Spenceley
-  - Michael Franklin
-  - Angli Xue
-  - Hao Lawrence Huang
-  - Blake Bowen
-  - Jianan Fan
-  - Oscar A. Dong
-  - Albert Henry
-  - Peter C. Allen
-  - Kristof Wing
-  - Owen Tang
-  - Michael Gray
-  - Andre L.M. Reis
-  - Jonathan Margoliash
-  - Nehir E. Kurtas
-  - Jeffrey M. Pullin
-  - Arthur S. Lee
-  - Harrison Brand
-  - Michael Harper
-  - Katalina Bobowik
-  - Michael Silk
-  - Amy Miniter
-  - John Marshall
-  - Vivian Bakiris
-  - Bindu Swapna Madala
-  - Caitlin Uren
-  - Caitlin Bartie
-  - Rachael A. McCloy
-  - Anne Senabouth
-  - Harriet Dashnow
-  - Liam Fearnley
-  - Alejandro Martin-Trujillo
-  - Egor Dolzhenko
-  - Zhen Qiao
-  - Stuart M. Grieve
-  - Tung Nguyen
-  - Eyal Ben-David
-  - Ling Chen
-  - Kyle Kai-How Farh
-  - Michael Talkowski
-  - Stephen I. Alexander
-  - Owen M. Siggs
-  - Leonhard Gruenschloss
-  - Hannah R. Nicholas
-  - Jennifer Piscionere
-  - Cas Simons
-  - Chris Wallace
-  - Melissa Gymrek
-  - Ira W. Deveson
-  - Alex W. Hewitt
-  - Gemma A. Figtree
-  - Katrina M. de Lange
-  - Joseph E. Powell
-  - Daniel G. MacArthur
-  publisher: openRxiv
-  date: '2024-11-04'
-  link: https://doi.org/g8q5v2
-  orcid: 0000-0001-8433-6270
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/11/04/2024.11.02.621562/F1.large.jpg
 - id: doi:10.1038/s41576-024-00692-3
   title: Sequencing and characterizing short tandem repeats in the human genome
   authors:

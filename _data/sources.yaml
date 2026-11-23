@@ -198,8 +198,16 @@
   - STRs
   - VNTRs
 
-- id: doi:10.1101/2024.11.02.621562
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/11/04/2024.11.02.621562/F1.large.jpg
+- id: doi:10.1038/s41586-026-10438-2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10438-2/MediaObjects/41586_2026_10438_Fig1_HTML.png
+  buttons:
+  - type: paper
+    link: https://doi.org/10.1038/s41586-026-10438-2
+  - type: preprint
+    link: https://doi.org/10.1101/2024.11.02.621562
+  tags:
+  - STRs
+  - short reads
 
 - id: doi:10.3390/genes16020216
   image: https://www.mdpi.com/genes/genes-16-00216/article_deploy/html/images/genes-16-00216-g002.png
